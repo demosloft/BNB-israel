@@ -1,0 +1,162 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+
+
+.wprentals_editor_label {
+    font-size: 13px;
+    font-weight: bold;
+    display: inline-block;
+    width: 100%;
+}
+.wprentals_editor_label.inspector_label{
+/*    max-width: 100%;*/
+}
+.wprentals_editor_select{
+    width:200px;
+    
+}
+.wprentals_editor_label_explaining{
+    color: #999;
+    font-size: 12px;
+}
+
+.autocomplete_p{
+    font-size: 12px;
+}
+
+.components-autocomplete{
+    border: 1px solid #ddd;
+}
+
+
+.wprentals_editor_title{
+    background: #1CA8DD;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+.wp-block-rentals-gutenberg-block-recent-items,
+.wp-block-rentals-gutenberg-block-testimonialchild,
+.wp-block-rentals-gutenberg-block-places-slider,
+.wp-block-rentals-gutenberg-block-testimonial-slider,
+.wp-block-rentals-gutenberg-block-contact-us-form,
+.wp-block-rentals-gutenberg-block-advanced-search,
+.wp-block-rentals-gutenberg-block-register-form,
+.wp-block-rentals-gutenberg-block-login-form,
+.wp-block-rentals-gutenberg-block-list-items-by-id,
+.wp-block-rentals-gutenberg-block-list-agents,
+.wp-block-rentals-gutenberg-block-places-list,
+.wp-block-rentals-gutenberg-block-listings-per-agent,
+.wp-block-rentals-gutenberg-block-google-map-property,
+.wp-block-rentals-gutenberg-block-featured-property,
+.wp-block-rentals-gutenberg-block-featured-article,
+.wp-block-rentals-gutenberg-block-featured-agent,
+.wp-block-rentals-gutenberg-block-recentitems,
+.wp-block-rentals-gutenberg-block-slider-items,
+.wp-block-rentals-gutenberg-block-testimonial,
+.wp-block-rentals-gutenberg-block-featured-agency,
+.wp-block-rentals-gutenberg-block-membership-package-settings{
+    background-color: #fafafa;
+    padding: 10px;
+    box-shadow: 0 5px 40px rgba(0,0,0,0.05);
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.wp-block-rentals-gutenberg-block-membership-package-settings .autocomplete_p{
+    font-size: 12px;
+}
+
+.wp-block-rentals-gutenberg-block-membership-package-settings .components-autocomplete{
+    border: 1px solid #ddd;
+}
+
+.wp_estate_side_image{
+    float: left;
+    max-height: 100px;
+}
+
+
+
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+.wp-block-cgb-block-rentals-gutenberg {
+  background: orangered;
+  border: 0.2rem solid #292929;
+  color: #292929;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 2rem; }
+
+
+.meta-element-head {
+     float: none!important;
+}
+
+.shortcode-login {
+    background-color: #fff!important;
+    border: 1px solid #e7e9ef;
+    padding: 30px!important;
+    float: left;
+}
+
+#forgot_pass {
+    padding-bottom: 15px;
+    display: inline-block;
+}
+
+.login-links {
+    background-color: #fff!important;
+    padding: 0!important;
+    text-align: center;
+    margin-bottom: 0!important;
+}
+
+.advanced_search_shortcode {
+    width: 100%;
+    font-size: 13px;
+    padding: 13px 0px 13px 0px;
+    background-color: #fff;
+    border: 1px solid #e7e9ef;
+    padding: 20px 15px;
+    float: none!important;
+    display: inline-block;
+}
+
+.blog_featured, .places_wrapper {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  line-height: 0;
+  margin-bottom: 5px !important;
+  position: relative;
+  background-color: #000;
+  cursor: pointer; 
+}
+.has-gutenberg-blocks .items_shortcode_wrapper.items_shortcode_wrapper_full {
+    display: flex;
+}
+
+.wpestate_places_list_function_wrapper{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.has-gutenberg-blocks .testimonial-container{
+    float:none;
+}
+
+.has-gutenberg-blocks .places_wrapper,
+.has-gutenberg-blocks .blog_featured{
+    float:none;
+    display:inline-block;
+}

@@ -1,0 +1,294 @@
+/*
+Theme Name: WpRentals Child theme
+Theme URI: http://themeforest.net/user/wpestate
+Description: Ultimate WordPress Theme created by WpEstate for accommodation booking. WpRentals is clean, flexible, fully responsive and retina Ready. Its smart settings allow you to build outstanding renting websites easily and fast.
+Version: 2.7
+Author: wpestate.org
+Author URI: http://themeforest.net/user/annapx
+Tags: white, one-column, two-columns,left-sidebar, right-sidebar, fluid-layout , custom-menu, theme-options, translation-ready
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: wprentals
+
+-------------------------------------------------------------- */
+
+.header_wrapper.header_wide_yes {
+    padding: 0;
+}
+
+.home .breadcrumb_container{
+    display:none;
+}
+
+.home .single-content,
+.home .content_wrapper{
+    padding-bottom:0px;
+    margin-bottom:0px;
+}
+
+.custom_wpestate_rentals:hover {
+    color: #e63264!important;
+}
+.property_menu_item a {
+    color: #fff!important;
+}
+.sub_footer{
+background-color: #323232;
+}
+
+.wpestate_marker:before{
+border-top: 10px solid #e74264;
+}
+
+.wpestate_marker {
+    background-color: #e74264;
+}
+
+@media only screen and (min-width: 1024px) {
+    .heading_over_video {
+        text-align: left;
+        color: #fff;
+        text-shadow: 1px 1px 3px rgba(68, 68, 68,0.5);
+        font-size: 60px;
+        width: 500px;
+        /* margin: 0px auto; */
+        line-height: 1.1em;
+    }
+
+    .subheading_over_video {
+            text-align: center;
+        color: #fff;
+        text-shadow: 1px 1px 3px rgba(68, 68, 68,0.25);
+        font-size: 26px;
+        font-size: 20px;
+        width: 1200px;
+        margin: 0px auto;
+        text-align: left;
+        padding-top: 16px;
+    }
+
+    .heading_over_video_wrapper{
+        top: 43%;
+        width: 975px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .heading_over_video_wrapper{
+        top: 43%;
+        width: 1200px;
+    }
+}
+
+@media only screen and (max-width: 1024px){
+    .heading_over_video_wrapper {
+        top: 50%;
+    }
+}
+
+.heading_over_image{
+    font-weight: 700;
+}
+
+.subheading_over_image {
+    font-weight: 500;
+}
+
+
+div.mobile_header{
+    background-color: #ffffff;
+}
+
+i.fas.fa-bars, i.fas.fa-cogs{
+    color: #063d61;
+    font-size: 25px;
+}
+
+div.navbar-fixed-top #access .current-menu-item &gt;a, div.navbar-fixed-top #access .current-menu-parent&gt;a, div.navbar-fixed-top #access .current-menu-ancestor&gt;a, div.navbar-fixed-top #access .current-menu-item {
+    color: #063d61!important;
+}
+
+.custom_day_wrapper{
+    display : none;
+}
+
+.custom_day_wrapper_mobile{
+    display : none;
+}
+. list_detail_prop_price_per_night{
+    display : none;
+}
+.property_menu_wrapper_hidden a:nth-of-type(6) {
+    display: none;
+}
+.property_menu_wrapper_hidden a:nth-of-type(7) {
+    display: none;
+}
+
+
+.property_menu_wrapper_hidden a:nth-of-type(8) {
+    display: none;
+}
+
+.price_unit_wrapper{
+    display : none;
+}
+
+.backtop{
+    display: none;
+}
+
+#contact_host {
+    display: none;
+}
+
+.owner_area_wrapper_sidebar #contact_me_long {
+    display: none;
+}
+
+.agentpic-wrapper {
+    display: none;
+}
+
+#listing_owner.owner_area_wrapper_sidebar {
+    display: none;
+}
+
+#contact_me_long_owner {
+    display: none;
+}
+
+.breadcrumb {
+    display: none;
+}
+    
+#add_favorites {
+    width:210%;
+}
+
+.page-id-31442 #search_wrapper {
+    display:none;
+}
+
+.page-id-31442 #adv-search-header-mobile {
+    display: none;
+}
+
+@media only screen and (max-width: 768px){
+    #adv-search-mobile {
+        display: block!important;
+    }
+}
+
+@media only screen and (max-width: 768px){
+    .page-id-31442 #adv-search-mobile {
+        display: none!important;
+    }
+}
+
+.custom_headline_x {
+    letter-spacing: 12px;
+}
+
+.heading_over_image {
+    font-weight:600!important;
+    font-size:56px!important;
+    text-transform: capitalize!important;
+    letter-spacing: 1px!important;
+}
+
+#guest_no_drop:after, 
+#guest_no_shortcode:after, 
+#guest_no_mobile:after,
+#booking_guest_no_wrapper:after, 
+#guest_no_widget:after, 
+#guest_no:after,
+#guest_no_mobile:after,
+#booking_guest_no_wrapper:after,
+#guest_no_widget:after,
+#guest_no:after,
+#guest_no_shortcode:after, 
+#guest_no_mobile:after, 
+#booking_guest_no_wrapper:after, 
+#guest_no_widget:after, 
+#guest_no:after{
+    background-image: url('css/css-images/icon_guest.png');
+    content: '';
+
+}
+
+.signuplink {
+    font-size: 15px !important;
+}
+
+#topbarregister:before{
+    content: "";
+    background-image: url('css/css-images/header_icons.png');
+    background-position: top right;
+ }
+
+#topbarlogin:before{
+    content:"";
+    background-image: url('css/css-images/header_icons.png');
+}
+
+.property_location .inforoom {
+    font-size: 13px;
+    background-image: url('./css/css-images/icon_bed1.png');
+}
+
+.property_location .infoguest {
+    font-size: 13px;
+    background-image: url('./css/css-images/icon_bath1.png');
+ }
+
+
+.property_location .infosize {
+    background-image: url('./css/css-images/icon-size1.png');
+}
+
+
+.panel-title-arrow {
+    background-image: url('css/css-images/property_arrows.png');
+}
+
+.panel-title.collapsed .panel-title-arrow {
+    background-image: url('css/css-images/property_arrows.png');
+    background-position: 2px 0px;
+}
+
+.calendar_icon:after {
+    content: " ";
+    background-image: url('css/css-images/calendar_icon.png');
+}
+
+.rooms_icon:after {
+    content: " ";
+    background-image: url('css/css-images/door_icon.png');
+ }
+
+.types_icon:after {
+    content: " ";
+    background-image: url('css/css-images/types_icon.png');
+}
+
+.actions_icon:after {
+    content: " ";
+    background-image: url('css/css-images/category_icon.png');
+ }
+
+.bedrooms_icon:after {
+    content: " ";
+    background-image: url('css/css-images/bedrooms_icon.png');
+}
+
+.baths_icon:after {
+    content: " ";
+    background-image: url('css/css-images/bathrooms_icon.png');
+}
+
+.map_icon:after {
+    background-image: url('css/css-images/icon_pin.png');
+    content: '';
+    width: 20px;
+}

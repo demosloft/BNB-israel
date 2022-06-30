@@ -1,0 +1,440 @@
+@media only screen and (max-width:1536px){
+
+.booking-calendar-wrapper-allinone .calendar_pad_title,
+.calendar_pad, .booking-calendar-wrapper-allinone .dayname {
+    width: 29px;
+    font-size: 12px;
+}
+}
+
+@media only screen and (max-width:1366px){
+
+    .property_dashboard_location_wrapper{
+        padding-left: 0px;
+        margin-top: 10px;
+    }
+    .change_your_package #pick_pack,
+    .change_your_package #wpestate_stripe_booking_recurring,
+    .change_your_package #direct_pay{
+      margin-bottom: 10px;
+    }
+
+    .booking-calendar-wrapper-allinone .calendar_pad_title, 
+    .calendar_pad, .booking-calendar-wrapper-allinone .dayname {
+      width: 26px;
+    }
+
+    .icon-fav-on-remove {
+      padding: .4em 5px .4em;
+    }
+
+}
+
+
+@media only screen and (max-width:1024px){
+    
+ .user_dashboard_panel .form-control {
+    margin-bottom: 15px;
+  }
+  
+  .nosubmit {
+    display: block;
+    float: left;
+  }
+        
+  .dashboard-margin-nolog {
+    width: 100%;
+    padding: 0px 15px;
+  }
+  
+  .dashboard-margin-nolog .dashboard-header h1 {
+    text-align: center;
+    margin: 0px auto;
+    width: 100%;
+  }
+  
+  .next_submit_page_first_step {
+    margin: 0px auto;
+    padding: 0px 30px 30px 30px;
+    display: block;
+    float: left;
+  }
+
+  .col-md-6.wpestate_widget_flex{
+    width: 100%;
+  }
+  
+  .property_dashboard_location_wrapper{
+    padding-left: 10px;
+    margin-top: 0px;
+  }
+
+  .booking-calendar-wrapper-allinone .calendar_pad_title, .calendar_pad, .booking-calendar-wrapper-allinone .dayname {
+    width: 15px;
+  }
+  #add_extra_detail{
+    margin-top: 10px;
+  }
+
+  .page-template-user_dashboard_edit_listing .user_dashboard_panel .col-md-6,
+  .page-template-user_dashboard_add_step1 .user_dashboard_panel .col-md-6{
+    width: 100%;
+  }
+  .page-template-user_dashboard_edit_listing .user_dashboard_panel .col-md-8,
+  .page-template-user_dashboard_edit_listing .user_dashboard_panel .col-md-4,
+  .page-template-user_dashboard_edit_listing .user_dashboard_panel .col-md-3,
+  .page-template-user_dashboard_add_step1 .user_dashboard_panel .col-md-3{
+    width: 50%;
+  }
+
+  .col-md-3.dashboard_chapter_label{
+    display: none;
+  }
+  
+  .user_dashboard_panel.dashboard_property_list{
+    float:left;
+
+  }
+  
+  .wpestate_dashboard_table_list_header {
+    display: none;
+  }
+
+  .col-md-6.blog_listing_image,
+  .col-md-2.property_dashboard_actions,
+  .col-md-5.blog_listing_image{
+    width: 100%;
+  }
+
+  .col-md-2.booking_unit_period{
+    width: 50%;
+  }
+  .col-md-2.booking_unit_status{
+    width: 25%;
+
+  }
+  .col-md-1.property_dashboard_price,
+  .col-md-2.property_dashboard_status,
+  .col-md-2.property_dashboard_reviews{
+    width: 33%;
+    min-height: 30px;
+    height: auto;
+  }
+  .property_dashboard_price .price_label{
+    height: auto;
+  }
+  .property_dashboard_actions .info-container{
+      margin-top: 0px;
+  }
+
+  .dashboard-header{
+    float:left;
+    width: 100%;
+  }
+
+  .wpestate_bell_note,
+  .back_to_home{
+    top:124px;
+  }
+
+  .widget_summary .col-md-8,
+  .widget_summary .col-md-4{
+    width: 100%;
+  }
+  .widget_summary .col-md-8 h4{
+      margin-top: 10px;
+  }
+
+  .change_your_package #pick_pack,
+  .change_your_package #wpestate_stripe_booking_recurring,
+  .change_your_package #direct_pay{
+    margin-bottom: 10px;
+    min-width: 220px;
+  }
+
+
+
+}
+
+
+
+
+@media only screen and (max-width:1023px){
+
+
+  .user_dashboard_panel_title {
+    white-space: initial;
+}
+}
+
+@media only screen and (max-width:768px){
+    
+    .trip_details_container {
+        width: 100%;
+    }
+    
+    .dashboard-header {
+        margin-bottom: 15px;
+        min-height: 45px;
+    }
+    
+    .content_wrapper_dashboard .entry-title {
+        font-size: 24px;
+        padding-top: 0px;
+    }
+    
+    .wpestate_dashboard_no_listings,
+    .account_history_widget{
+        padding: 0px 15px 15px 15px;
+    }
+    
+    .no_list_yet, .no_favorites {
+        float: none;
+        text-align: center;
+        padding: 10px;
+    }
+    
+    .dashboad_widgets_wrapper.widget_summary{
+        padding-bottom: 15px;
+    }
+    
+    .inbox-wrapper {
+        margin-top: 35px;
+        padding: 20px 10px;
+        max-width: 1250px;
+        min-width: auto;
+        float: left;
+        width: 100%;
+        margin: 0px;
+    }
+
+    .inbox-wrapper .col-md-12{
+        float: left;
+        width: 100%;
+        padding: 0px;
+    }
+
+
+    .mess_reply_form,
+    .mess_content{
+        padding: 10px 10px;
+        padding-right: 0px;
+    }
+
+    .mess_send_reply_button{
+        width: 100%;
+        text-align: center;
+    }
+
+    .message_content {
+        width: 100%;
+    }
+
+  .islive{
+      display: none;
+  }
+
+  .col-md-1.property_dashboard_price,
+  .col-md-2.property_dashboard_status,
+  .col-md-2.property_dashboard_reviews{
+    width: 100%;
+    height: 30px;
+    text-align: left;
+    display: inline-block;
+    white-space: initial;
+  }
+
+  .col-md-2.property_dashboard_reviews{
+      margin-top: 10px;
+  }
+
+  .property_dashboard_price .price_label{
+       display: inline-block;
+  }
+  .wprentals_status{
+    display: inline-block;
+  }
+
+  .col-md-2.property_dashboard_actions.payment_sys_membership{
+        display: inline-block;
+        margin-top: 15px;
+        margin-left: -5px;
+  }
+
+  .user_tab_menu{
+      left:0px;
+      border-radius: 0px;
+      height: 100%;
+  }
+
+  .invoice_totals,
+  .invoices_explanation,
+  .profile-image-wrapper,
+  .back_to_home,
+  .wpestate_bell_note{
+      display: none;
+  }
+
+  .wpestate_dashboard_holder,
+  .dashboard-header{
+    float:left;
+    width: 100%;
+  }
+
+
+  .sms_wrapper {
+      padding: 20px;
+  }
+  .user_dashboard_panel p{
+    float:left;
+    width: 100%;
+  }
+
+  .profile_upload_image_wrapper{
+    margin-left: 0px;
+  }
+
+  .profile_upload_image.user_dashboard_panel{
+    width: auto;
+    margin: 0px 30px;
+    margin-bottom: 30px;
+  }
+
+  .search_dashborad_header .wpb_btn-info.wpb_btn-small.wpestate_vc_button.vc_button,
+  #send_sms_pin,
+  #stripe_form,
+  .change_your_package #pick_pack,
+  .change_your_package #wpestate_stripe_booking_recurring,
+  .change_your_package #direct_pay {
+    width: 100%;
+  }
+}
+
+
+@media only screen and (max-width: 480px){
+
+  #change_pass,
+  #view_profile,
+  #update_profile,
+  #delete_profile {
+    max-width: initial;
+    margin: 15px 15px;
+    width: calc(100% - 30px);
+    display: block;
+      text-align: center;
+  }
+
+  .delete_extra_option,
+  .add_option_wrapper #add_extra_option{
+      width: 100%;
+      max-width: 200px;
+  }
+
+  .add_option_wrapper .add_option_input,
+  .extra_pay_option .add_option_input,
+  .add_option_wrapper #add_option_name,
+  .add_option_input.extra_option_value,
+  .add_option_wrapper .select_submit_price,
+  .extra_pay_option .select_submit_price,
+  .extra_pay_option .select_submit_price,
+  .extra_pay_option .select_submit_price,
+   #add_extra_option,
+  .add_option_wrapper #add_option_value,
+  .add_option_wrapper #add_option_type{
+      width: 100%;
+      max-width: 100%;
+      margin-bottom: 10px!important;
+  }
+  #edit_prop_price{
+      margin-top: 15px;
+  }
+
+  .listing_detail{
+    padding: 0px 15px;
+  }
+  
+  .form-control.property_icalendar_import_feed_new,
+  .form-control.property_icalendar_import_name_new {
+    width: 100%;
+  }
+
+  .booking-calendar-wrapper-allinone .calendar_pad_title,
+  .calendar_pad, .booking-calendar-wrapper-allinone .dayname {
+      width: 7px;
+  }
+
+  #wpestate_stripe_booking,
+  .info-container_booking span,
+  .info-container_booking span:first-child {
+      margin-left: 0px;
+      width: 100%;
+      text-align: center;
+  }
+  
+  .info-container_booking .trip_details {
+    margin: 0px 0px;
+  }
+
+  .listing_title_book{
+    padding-left: 0px;
+  }
+}
+
+@media only screen and (max-width: 414px){
+
+  .col-md-2.booking_unit_status,
+  .col-md-2.booking_unit_owner,
+  .col-md-2.booking_unit_period,
+  .page-template-user_dashboard_edit_listing .user_dashboard_panel .col-md-8,
+  .page-template-user_dashboard_edit_listing .user_dashboard_panel .col-md-4,
+  .page-template-user_dashboard_edit_listing .user_dashboard_panel .col-md-3,
+  .page-template-user_dashboard_add_step1 .user_dashboard_panel .col-md-3{
+    width: 100%;
+  }
+
+  .user_dashboard_panel_guide{
+      display: none;
+  }
+
+  .blog_listing_image{
+      display: block;
+  }
+
+  .property_dashboard_location_wrapper .listing_title,
+  .property_dashboard_location_wrapper,
+  .user_dashboard_listed {
+    padding-left: 0px;
+  }
+
+  .dashboad_widgets_wrapper .property_dashboard_location_wrapper{
+    padding-left: 10px;
+  }
+
+  .col-md-5.blog_listing_image .dashboard_imagine,
+  .property_dashboard_location_wrapper{
+      width: 100%;
+  }
+
+
+  .pack-wrapper {
+    float: none;
+    margin: 16px 0px 0px 0px;
+    padding: 0px 15px;
+    display: inline-block;
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 1537px){
+.booking-calendar-wrapper-allinone .calendar_pad_title, 
+.calendar_pad, .booking-calendar-wrapper-allinone .dayname {
+    width: 33px;
+}
+}
+
+@media only screen and (min-width: 1870px){
+.booking-calendar-wrapper-allinone .calendar_pad_title, 
+.calendar_pad, .booking-calendar-wrapper-allinone .dayname {
+    width: 38px;
+}
+}

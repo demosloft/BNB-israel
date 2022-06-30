@@ -1,0 +1,106 @@
+# Copyright (C) 2021 WpEstate
+# This file is distributed under the same license as the WpRentals Elementor Widgets plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WpRentals Elementor Widgets 3.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wprentals-elementor\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-11-21T10:28:03+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: residence-elementor\n"
+
+#. Plugin Name of the plugin
+msgid "WpRentals Elementor Widgets"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://wpestate.org/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Elementor widgets for WpRentals"
+msgstr ""
+
+#. Author of the plugin
+msgid "WpEstate"
+msgstr ""
+
+#: widgets/advanced-search.php:129
+#: widgets/advanced-search.php:137
+#: widgets/booking-form.php:179
+#: widgets/booking-form.php:187
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/advanced-search.php:154
+#: widgets/booking-form.php:205
+msgid "Colors"
+msgstr ""
+
+#: widgets/advanced-search.php:162
+#: widgets/booking-form.php:213
+msgid "Background Color"
+msgstr ""
+
+#: widgets/advanced-search.php:175
+msgid "Border Color"
+msgstr ""
+
+#: widgets/advanced-search.php:186
+msgid "Border Width"
+msgstr ""
+
+#: widgets/advanced-search.php:198
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/advanced-search.php:211
+msgid "Button Background Color"
+msgstr ""
+
+#: widgets/advanced-search.php:224
+#: widgets/advanced-search.php:248
+msgid "Button  Color"
+msgstr ""
+
+#: widgets/advanced-search.php:236
+msgid "Button Background Color Hover"
+msgstr ""
+
+#: widgets/advanced-search.php:267
+#: widgets/booking-form.php:235
+msgid "Typography"
+msgstr ""
+
+#: widgets/advanced-search.php:276
+#: widgets/booking-form.php:244
+msgid "Property Title"
+msgstr ""
+
+#: widgets/booking-form.php:133
+msgid "Show/Hide Data"
+msgstr ""
+
+#: widgets/booking-form.php:141
+msgid "Hide Favorites & Contact section"
+msgstr ""
+
+#: widgets/booking-form.php:143
+#: widgets/booking-form.php:158
+msgid "Yes"
+msgstr ""
+
+#: widgets/booking-form.php:144
+#: widgets/booking-form.php:159
+msgid "No"
+msgstr ""
+
+#: widgets/booking-form.php:156
+msgid "Hide Social section"
+msgstr ""

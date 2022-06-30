@@ -1,0 +1,3774 @@
+body.login div#login h1 a {
+    background-position: center center;
+}
+
+
+
+.order-number,
+.order-date{
+    padding: 10px!important;
+}
+
+
+
+.sms_wrapper_redux{
+    margin-top: 30px;
+}
+.sms_content{
+    background: #eee;
+    padding: 20px;
+    margin-bottom: 5px;
+}
+.extra_exp{
+    margin-bottom: 15px;
+}
+
+.toplevel_page_WpRentals select.wpestate_multiple_select{
+    height: 300px!important;
+}
+
+.redux-container{
+    background: #3e4454;
+}
+.redux-container .redux-main{
+    background: #fff!important;
+    border-left: 1px solid #ffffff;
+}
+
+.redux-sidebar .redux-group-menu li a {
+    color: #e7e8eb;
+}
+
+.redux-sidebar .redux-group-menu {
+    margin-top: 0 !important;
+    background: #3e4453;
+}
+
+.redux-sidebar .redux-group-menu li a {
+    border-bottom-color: #60687d;
+    opacity: 0.85;
+    font-weight: 400;
+    padding: 13px 4px 13px 14px;
+}
+.redux-sidebar .redux-group-tab-link-a i {
+    font-size: 1.19em;
+}
+
+.redux-container #info_bar {
+    background: #3e4454;
+    border-bottom: 1px solid #dedede;
+    padding: 6px 10px 6px 6px;
+    text-align: right;
+    -moz-box-shadow: none;
+    -webkit-box-shadow:none;
+    box-shadow: none;
+     color: #e7e8eb;
+}
+
+.wprentals_pin_fields td .redux-container-media .upload_button_div {
+    margin-top: 7px;
+    margin-bottom: 0px;
+}
+
+.wprentals_pin_fields td .redux-container-media .screenshot{
+    width: auto;
+    float: left;
+    height: 100%;
+    margin-right: 15px;
+}
+
+.wprentals_pin_fields td .redux-container-media .screenshot img {
+    width: 36px!important;
+    float: left;
+    height: auto;
+    margin: 0px;
+}
+
+.redux-container .notice-yellow {
+    border-bottom: 1px solid #4ecb8f;
+    background-color: #4ecb8f;
+    color: #ffffff;
+    text-shadow: none;
+}
+
+
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a,
+.wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a {
+    background: #292e39;
+}
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a,
+.wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a {
+    background: #7482a8;
+    text-shadow: none;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections a,
+.wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections a {
+    background: #a0a5aa;
+    text-shadow: none;
+}
+.redux-container h2{
+    font-weight: 700;
+    font-size: 20px;
+    color: #002B2B;
+    text-transform: uppercase;
+}
+.redux-container .redux_field_th {
+    font-weight: 600;
+    padding: 20px 10px 20px 0px;
+    display: block;
+    font-weight: bold;
+    font-size: 15px;
+    color: #002B2B;
+}
+.redux-container .remove-image{
+    background-color: #f14a4a!important
+    color: #f3f4f7!important;
+    min-height: 36px;
+    text-align: center;
+    padding: 5px 25px;
+    box-shadow: none;
+    /* line-height: 36px; */
+    vertical-align: middle;
+    border: none;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+.redux-container .ui-button{
+   background-image: none!important;
+    background-color: #e1e1e1!important;
+    text-shadow: none;
+    box-shadow: none;
+    padding: 4px 14px 6px!important;
+    margin-left: 5px!important;
+
+}
+.admin-color-fresh .redux-container-switch .cb-enable.selected,
+.admin-color-fresh .redux-field-container .ui-buttonset .ui-state-active,
+.wp-customizer .redux-container-switch .cb-enable.selected,
+.wp-customizer .redux-field-container .ui-buttonset .ui-state-active{
+    background-color: #292e39 !important;
+    background-image: none!important;
+    border-color: #3e4454!important;
+    box-shadow: none!important;
+}
+
+#redux-import-code-button,
+#redux-import-link-button,
+#redux-export-code-copy,
+#redux-export-link {
+    color: #fff;
+    background-color: #292e39 !important;
+    background-image: none!important;
+    border-color: #3e4454!important;
+    box-shadow: none!important;
+}
+
+#redux-export-code-dl,
+#redux-import{
+    color: #fff!important;
+    background-color: #4ecb8f!important;
+    background-image: none!important;
+    border-color: #4ecb8f!important;
+    box-shadow: none!important;
+    text-shadow: none;
+}
+
+#redux-import-action span {
+    color: #F44336;
+    display: block;
+    padding: 10px 0px;
+    font-weight: 500;
+}
+
+.wp-admin .redux-field-container select[multiple] {
+    height: 350px;
+}
+
+.admin-color-fresh .select2-drop-active,
+.admin-color-fresh .select2-container-multi.select2-container-active .select2-choices,
+.admin-color-fresh .select2-drop.select2-drop-above.select2-drop-active,
+.admin-color-fresh .select2-container-active .select2-choice,
+.admin-color-fresh .select2-container-active .select2-choices,
+.admin-color-fresh .select2-dropdown-open.select2-drop-above .select2-choice,
+.admin-color-fresh .select2-dropdown-open.select2-drop-above .select2-choices,
+.wp-customizer .select2-drop-active,
+.wp-customizer .select2-container-multi.select2-container-active .select2-choices,
+.wp-customizer .select2-drop.select2-drop-above.select2-drop-active,
+.wp-customizer .select2-container-active .select2-choice,
+.wp-customizer .select2-container-active .select2-choices,
+.wp-customizer .select2-dropdown-open.select2-drop-above .select2-choice,
+.wp-customizer .select2-dropdown-open.select2-drop-above .select2-choices {
+    border-color: #ddd;
+}
+
+.select2-container.select2-allowclear .select2-choice .select2-chosen {
+    margin-right: 44px;
+    margin-left: 5px;
+}
+
+#edit-gallery,
+.redux-container .media_upload_button{
+    background-color: #313643!important;
+    color: #f3f4f7!important;
+    min-height: 36px;
+    text-align: center;
+    padding: 5px 25px;
+    box-shadow: none;
+    /* line-height: 36px; */
+    vertical-align: middle;
+    border: none;
+    font-size: 14px;
+    font-weight: 500;
+    text-shadow: none;
+}
+
+#clear-gallery,
+.redux-main .button.remove-image,
+.redux-main .removeCSS {
+    margin-left: 10px;
+    color: #ef521d;
+    background-color: #e1e1e1!important;
+    min-height: 36px;
+    text-align: center;
+    padding: 5px 25px;
+    box-shadow: none;
+    vertical-align: middle;
+    border: none;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.button.button-small.wp-picker-clear {
+    margin-left: 10px;
+    color: #ef521d!important;
+    background-color: #e1e1e1!important;
+    min-height: 36px;
+    text-align: center;
+    box-shadow: none;
+    vertical-align: middle;
+    border: none;
+    font-size: 14px;
+    font-weight: 500;
+    min-width: 80px;
+    max-width: 80px;
+    margin-top: -5px!important;
+}
+
+.wp-picker-container input[type=text].wp-color-picker {
+    min-width: 80px;
+    max-width: 80px;
+    margin-top: -5px;
+    margin-left: 10px;
+}
+
+#add_feature2 {
+    background-color: #313643!important;
+    color: #f3f4f7!important;
+    min-height: 36px;
+    text-align: center;
+    padding: 8px 25px;
+    box-shadow: none;
+    /* line-height: 36px; */
+    vertical-align: middle;
+    border: none;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+#wp_estate_custom_css-editor {
+    height: 500px!important;
+}
+
+.redux-container .redux-group-tab {
+    padding: 10px 30px;
+}
+.redux-container .redux_field_th {
+    padding: 20px 30px 20px 0px;
+}
+.redux-container .redux-main span.description {
+    color: #888888;
+    line-height: 1.6em;
+}
+
+.toplevel_page_WpRentals  input[type=text],
+.toplevel_page_WpRentals input[type=search],
+.toplevel_page_WpRentals input[type=radio],
+.toplevel_page_WpRentals input[type=tel],
+.toplevel_page_WpRentals input[type=time],
+.toplevel_page_WpRentals input[type=url],
+.toplevel_page_WpRentals input[type=week],
+.toplevel_page_WpRentals input[type=password],
+.toplevel_page_WpRentals input[type=checkbox],
+.toplevel_page_WpRentals input[type=color],
+.toplevel_page_WpRentals input[type=date],
+.toplevel_page_WpRentals input[type=datetime],
+.toplevel_page_WpRentals input[type=datetime-local],
+.toplevel_page_WpRentals input[type=email],
+.toplevel_page_WpRentals input[type=month],
+.toplevel_page_WpRentals input[type=number],
+.toplevel_page_WpRentals select,
+.toplevel_page_WpRentals textarea {
+    border: 1px solid red;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+    background-color: #fff;
+    color: #32373c;
+    outline: 0;
+    transition: 50ms border-color ease-in-out;
+}
+
+#wprentals_admin-wp_estate_mandatory_page_fields input,
+#wprentals_admin-wp_estate_submission_page_fields input,
+#wprentals_admin-wp_estate_yelp_categories input,
+#wprentals_admin-wp_estate_theme_slider input,
+#wprentals_admin-wp_estate_advanced_exteded input{
+    min-width: 150px!important;
+}
+
+.redux-container .ui-buttonset input {
+    border-color: transparent!important;
+}
+
+#info-opt-info_hover {
+    width: auto;
+    max-width: -webkit-fill-available;
+    float: left;
+}
+
+.select2-search input {
+    min-width: auto!important;
+    max-width: auto!important;
+    margin-top: 5px;
+}
+
+.toplevel_page_WpRentals  .field_row{
+    border:none;
+}
+
+.toplevel_page_WpRentals textarea,
+.toplevel_page_WpRentals select{
+    background-color: #fff!important;
+    border: 1px solid #ddd!important;
+    max-width: 300px;
+        width: 100%;
+}
+
+textarea#wp_estate_copyright_message-textarea,
+textarea#wp_estate_copyright_message-textarea,
+#s2id_wp_estate_yelp_categories-select,
+#s2id_wp_estate_submission_page_fields-select,
+#s2id_wp_estate_mandatory_page_fields-select,
+#s2id_wp_estate_advanced_exteded-select,
+#s2id_wp_estate_theme_slider-select,
+.wp_estate_redux_on_child_theme_customcss textarea{
+    max-width: 100%;
+}
+
+.wp_estate_redux_on_child_theme_customcss textarea {
+    margin: 20px 0px;
+}
+
+
+/*.toplevel_page_WpRentals select,
+.redux-container select{
+        height: 36px!important;;
+}*/
+
+.toplevel_page_WpRentalsChildtheme input,
+.toplevel_page_WpRentals input {
+    box-shadow: none !important;
+    background-clip: padding-box;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    vertical-align: middle;
+    height: 36px;
+    padding: 7px 9px;
+/*    min-width: 300px;*/
+    max-width: 300px;
+    -webkit-appearance: none;
+    border: 1px solid #ddd!important;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.07)!important;
+    background-color: #fff!important;
+    color: #32373c!important;
+    outline: 0;
+    transition: 50ms border-color ease-in-out;
+}
+#wp_estate_mandatory_page_fields-select,
+#wp_estate_submission_page_fields-select{
+    width:300px!important;
+    height:300px!important;
+    display: block!important;
+    margin-top: 10px;
+}
+.redux-dev-mode-notice-container.redux-dev-qtip { display: none; }
+.rAds {
+    width: 0;
+    height: 0;
+    visibility: hidden;
+}
+
+.redux-message.redux-notice,
+.redux-messageredux-notice {
+    display: none !important;
+}
+
+.select2-container,
+.select2-drop,
+.select2-search {
+    max-width: 300px;
+}
+
+.redux-container .redux-main input[type=checkbox] {
+    width: 25px!important;
+    height: 25px!important;
+    min-width: auto;
+}
+
+#redux_save_sticky,
+#redux_save{
+    height: 36px;
+    text-shadow: none;
+    font-weight: 600;
+    font-size: 14px;
+    min-width: 170px;
+    margin-top: -1px;
+    background-color: #4ecb8f!important;
+    color: #fff!important;
+    border-color: #4ecb8f!important;
+}
+
+#redux-defaults-section-sticky,
+#redux-defaults-sticky,
+#redux-defaults-section,
+#redux-defaults {
+    height: 36px;
+    text-shadow: none;
+    font-weight: 600;
+    font-size: 14px;
+    min-width: 170px;
+    margin-top: -1px;
+    background-color: #a0a5aa!important;
+    color: #fff!important;
+    border-color: #7482a8!important;
+}
+
+input[type=checkbox]:checked:before {
+
+    color: #1e8cbe;
+
+}
+.toplevel_page_WpRentalsChildtheme input[type=checkbox]:checked:before,
+.toplevel_page_WpRentals input[type=checkbox]:checked:before {
+    margin: 0px 0px 0px 0px;
+    color: #1e8cbe;
+    font-size: 24px;
+}
+/*=Theme Options */
+.ocdi__gl.js-ocdi-gl{
+    margin-top: 20px;
+}
+
+
+.extra_detail_option_wrapper_admin{
+    width:100%;
+    display: inline-block;
+}
+.extra_detail_option {
+    width:40%;
+    display: inline-block;
+}
+
+.extra_detail_option_label{
+    display:inline-block;
+    width: 100%;
+}
+
+#custom_fields_search,
+#custom_fields_wrapper,
+#custom_fields{
+    margin: 10px 10px 30px 0px;
+    display: inline-block;
+}
+
+#custom_fields_search select,
+#custom_fields_wrapper select,
+#custom_fields  select {
+    width:140px!important;
+    min-width:140px!important;
+}
+
+.modal_notice{
+    position: absolute;
+    width: 400px;
+    top: 20%;
+    left: 50%;
+    margin-left: -245px;
+    background-color: #fff;
+    z-index: 100;
+    padding: 30px;
+    box-shadow: 1px 3px 20px rgba(0,0,0,0.2);
+    border: 1px solid #ccc;
+    font-size: 16px;
+    line-height: 1.3em;
+}
+.modal_notice p{
+    font-size:15px;
+}
+
+.cleared_cache{
+    background: #e12c2c;
+    color:#fff;
+    font-size: 15px;
+    padding: 10px;
+    margin: 10px 20px 0 2px;
+}
+.license_check_wrapper{
+    background-color: #b881fc;
+    color: #fff;
+    margin: 10px 20px 0 2px;
+    padding: 5px 10px;
+}
+.activate_notice{
+    color:#fff;
+    cursor:pointer;
+}
+#wpestate_license_key{
+    width: 300px;
+    height: 28px;
+}
+
+#check_ajax_license {
+    height: 32px;
+    padding: 0px 25px!important;
+    line-height: 32px;
+}
+.license_form{
+    margin-top: 10px;
+}
+
+
+
+#wpfooter{
+    /*display:none!important;*/
+}
+
+#css_modal{
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    top: 10%;
+    margin-left: -250px;
+    width: 500px;
+    height: 610px;
+    overflow: auto;
+    border: 1px solid #efefef;
+    box-shadow: 0 1px 1px rgba(0,0,0,.14);
+    background-color: #fff
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 20px 30px;
+    padding: 20px;
+    border: 1px solid #efefef;
+    height: 500px;
+    overflow: auto;
+    width: 440px;
+}
+
+.css_modal_close {
+    color: #aaa;
+    float: right;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.css_modal_close:hover,
+.css_modal_close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#activate_pack_reservation_fee,
+#activate_pack_listing,
+#activate_pack{
+    background-color: #45b37e;
+    color:#fff;
+    padding:10px 20px;
+    cursor:pointer;
+    display: inline-block;
+}
+
+
+.wpestate_adv_search_label{
+    font-size: 14px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+#wpestate_search_bar{
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.wpestate_admin_search_bar{
+    width:100%;
+    float: left;
+    background: #ececec;
+    border: 1px solid #ccc;
+    padding: 10px;
+
+}
+
+
+
+.pblank{
+    margin-bottom: 40px;
+}
+
+#theme_slider{
+    height: 400px!important;
+}
+
+.wpestate-tab-wrapper-container p{
+    margin-left: 20px;
+}
+
+.admin-exp{
+    padding-left: 230px;
+}
+
+
+.desgintable input{
+    float:left;
+}
+
+.wpestate-tab-wrapper-container{
+    float:left;
+      background: #ececec;
+      border: 1px solid #ccc;
+}
+
+
+.wpestate-tab-wrapper{
+    width:200px;
+    height:100%;
+    float:left;
+}
+
+
+
+.ourlogo{
+    width:100%;
+    float:left;
+    height: 95px;
+}
+
+.ourlogo img{
+    margin:28px 0px 0px 20px;
+}
+
+.wpestate-tab-item{
+    width:100%;
+    padding: 0px;
+    float:left;
+    font-size: 14px;
+    font-family: 'Arial';
+    font-style: normal;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    z-index: 100;
+    position: relative;
+    border-bottom: 1px solid #ddd;
+    cursor:pointer;
+}
+
+.wpestate-tab-item:hover{
+    background-color: #f1f1f1;
+}
+
+.wpestate-tab-item:hover a{
+     color:#45b37e;
+}
+
+
+.wpestate-tab-item a{
+    text-decoration: none;
+    color: #1a171b;
+    line-height: 22px;
+    padding: 13px 0px 5px 15px;
+    width: 185px;
+    float: left;
+    min-height: 30px;
+}
+
+
+.wpestate-tab-active{
+   background-color: #FCFCFC;
+    width: 101%;
+}
+
+.wpestate-tab-active a{
+      color:#45b37e;
+}
+
+.wpestate-tab-container{
+    height:100%;
+    min-height: 800px;
+    width:690px;
+    float:left;
+    border-left:1px solid #ccc;
+    background-color: #FCFCFC;
+    z-index: 10;
+    position: relative;
+    padding-right: 20px
+}
+
+
+.wpestate-tabh1{
+    color: #1a171b;
+    font-size: 25px;
+    font-weight: normal;
+    margin: 37px 20px 20px 20px!important;
+}
+
+.wpestate-tab-container .form-table{
+    margin-left: 20px;
+    color: #1a171b!important;
+}
+
+
+/*=Page Options */
+
+.metacustom label{
+    width:100%;
+    float: left
+}
+
+.cur_explanations {
+    margin: 10px 0px;
+}
+
+.metacustom {
+    float: left;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+.field_item{
+    float:left;
+    width:135px;
+    margin-right:20px;
+}
+
+.field_item_unit{
+    float:left;
+    margin-right:50px;
+    margin-bottom: 15px;
+}
+
+.field_item_unit strong {
+    margin-bottom: 10px;
+    line-height: 1.6em;
+    float: left;
+}
+
+
+.field_item input {
+    width: 125px!important;
+    min-width: 125px!important;
+}
+
+.field_row{
+    margin-bottom: 15px;
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #FFE7E7;
+    padding-bottom: 15px;
+}
+
+#price_curency_tab .field_row,
+#custom_fields_tab .field_row,
+#advanced_search_form_tab .field_row {
+    border: 0px;
+    margin-bottom: 30px;
+}
+
+
+#advanced_search_form_tab .input-group-addon {
+    top: 1px;
+}
+
+.deletefieldlink{
+    margin-top: 25px;
+    float: left;
+    margin-left: 10px;
+}
+
+#custom_fields{
+    float:left;
+    margin: 10px 10px 30px 10px;
+}
+
+.redux-container-wpestate_currency #custom_fields {
+    margin: 10px 0px 30px 0px;
+    width: 100%;
+}
+
+.redux-container-wpestate_custom_fields_list .deletefieldlink,
+.redux-container-wpestate_currency .deletefieldlink {
+    margin-left: 0px;
+    color: #ef521d;
+    background-color: #e1e1e1!important;
+    min-height: 36px;
+    text-align: center;
+    padding: 0px 25px;
+    box-shadow: none;
+    vertical-align: middle;
+    border: none;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 36px;
+    margin-top: 17px;
+    text-decoration: none;
+}
+
+
+
+#add_field2,
+#add_field{
+    margin: 10px 0px 17px 0px;
+    background-color: #4ecb8f;
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.redux-main #redux-sticky #info_bar .expand_options {
+    display: none!important;
+}
+
+#add_field2 {
+    background-color: #313643!important;
+    color: #f3f4f7!important;
+    min-height: 36px;
+    text-align: center;
+    padding: 0px 25px;
+    box-shadow: none;
+    /* line-height: 36px; */
+    vertical-align: middle;
+    border: none;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    line-height: 36px;
+    height: 36px;
+}
+
+#add_curency2,
+#add_curency{
+    background-color: #313643!important;
+    color: #f3f4f7!important;
+    min-height: 36px;
+    text-align: center;
+    padding: 8px 25px;
+    box-shadow: none;
+    /* line-height: 36px; */
+    vertical-align: middle;
+    border: none;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.memebership_row{
+    width: 100%;
+    float: left;
+    margin-bottom: 5px;
+}
+
+.memebership_item{
+   width:200px;
+   margin: 10px 0px 0px 0px;
+   float:left;
+}
+
+.memebership_item label{
+    width:100%;
+}
+
+#new_membership{
+    width: 86px;
+    height: 20px;
+    float: left;
+    padding: 6px 10px 0px 10px;
+    background-color: #ccc;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.submit_membership{
+    clear: both;
+    float: left;
+}
+
+#sample_member_row{
+   display:none;
+}
+
+.memebership_alert{
+    padding: 8px;
+    background-color: #fffbcc;
+    margin: 4px;
+    width: 375px;
+}
+
+.remove_pack{
+    margin-top: 30px;
+    float: left;
+    cursor: pointer;
+}
+
+.memeber_title{
+    margin: 30px 0px 0px 0px;
+    float:left;
+}
+
+.pblankh{
+    padding-left:0px!important;
+    font-size: 15px;
+    border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 15px;
+}
+
+.meta-box-sortables select {
+    max-width: 305px;
+    width: 100%;
+}
+
+.third-meta-options {
+    width: 33%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+
+/* =MailChimp
+----------------------------------------------- */
+
+#mc_embed_signup,
+.indicates-required,
+.mc-field-group,
+.mce-responses,
+.response,
+#mce-responses .clear{
+    display:block!important;
+}
+
+.edit-comments-php .response.column-response {
+    width: 100%;
+    display: table-cell!important;
+}
+/* Patterns admin
+/////////////////////////////////////////////////////////////////////////////////////*/
+
+
+.colorpicker {
+    width: 356px;
+    height: 176px;
+    overflow: hidden;
+    position: absolute;
+    background: url(css-images/colorpicker_background.png);
+    font-family: Arial, Helvetica, sans-serif;
+    display: none;
+
+}
+
+.colorpicker_color {
+    width: 150px;
+    height: 150px;
+    left: 14px;
+    top: 13px;
+    position: absolute;
+    background: #f00;
+    overflow: hidden;
+    cursor: crosshair;
+}
+
+.colorpicker_color div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 150px;
+    background: url(css-images/colorpicker_overlay.png);
+}
+
+.colorpicker_color div div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 11px;
+    height: 11px;
+    overflow: hidden;
+    background: url(css-images/colorpicker_select.gif);
+    margin: -5px 0 0 -5px;
+}
+
+.colorpicker_hue {
+
+    position: absolute;
+
+    top: 13px;
+
+    left: 171px;
+
+    width: 35px;
+
+    height: 150px;
+
+    cursor: n-resize;
+
+}
+
+.colorpicker_hue div {
+
+    position: absolute;
+
+    width: 35px;
+
+    height: 9px;
+
+    overflow: hidden;
+
+    background: url(css-images/colorpicker_indic.gif) left top;
+
+    margin: -4px 0 0 0;
+
+    left: 0px;
+
+}
+
+.colorpicker_new_color {
+
+    position: absolute;
+
+    width: 60px;
+
+    height: 30px;
+
+    left: 213px;
+
+    top: 13px;
+
+    background: #f00;
+
+}
+
+.colorpicker_current_color {
+
+    position: absolute;
+
+    width: 60px;
+
+    height: 30px;
+
+    left: 283px;
+
+    top: 13px;
+
+    background: #f00;
+
+}
+
+.colorpicker input {
+
+    background-color: transparent;
+
+    border: 1px solid transparent;
+
+    position: absolute;
+
+    font-size: 10px;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    color: #898989;
+
+    top: 4px;
+
+    right: 11px;
+
+    text-align: right;
+
+    margin: 0;
+
+    padding: 0;
+
+    height: 11px;
+
+}
+
+.colorpicker_hex {
+
+    position: absolute;
+
+    width: 72px;
+
+    height: 22px;
+
+    background: url(css-images/colorpicker_hex.png) top;
+
+    left: 212px;
+
+    top: 142px;
+
+}
+
+.colorpicker_hex input {
+
+    right: 6px;
+
+}
+
+.colorpicker_field {
+
+    height: 22px;
+
+    width: 62px;
+
+    background-position: top;
+
+    position: absolute;
+
+}
+
+.colorpicker_field span {
+
+    position: absolute;
+
+    width: 12px;
+
+    height: 22px;
+
+    overflow: hidden;
+
+    top: 0;
+
+    right: 0;
+
+    cursor: n-resize;
+
+}
+
+.colorpicker_rgb_r {
+
+    background-image: url(css-images/colorpicker_rgb_r.png);
+
+    top: 52px;
+
+    left: 212px;
+
+}
+
+.colorpicker_rgb_g {
+
+    background-image: url(css-images/colorpicker_rgb_g.png);
+
+    top: 82px;
+
+    left: 212px;
+
+}
+
+.colorpicker_rgb_b {
+
+    background-image: url(css-images/colorpicker_rgb_b.png);
+
+    top: 112px;
+
+    left: 212px;
+
+}
+
+.colorpicker_hsb_h {
+
+    background-image: url(css-images/colorpicker_hsb_h.png);
+
+    top: 52px;
+
+    left: 282px;
+
+}
+
+.colorpicker_hsb_s {
+
+    background-image: url(css-images/colorpicker_hsb_s.png);
+
+    top: 82px;
+
+    left: 282px;
+
+}
+
+.colorpicker_hsb_b {
+
+    background-image: url(css-images/colorpicker_hsb_b.png);
+
+    top: 112px;
+
+    left: 282px;
+
+}
+
+.colorpicker_submit {
+
+    position: absolute;
+
+    width: 22px;
+
+    height: 22px;
+
+    background: url(css-images/colorpicker_submit.png) top;
+
+    left: 322px;
+
+    top: 142px;
+
+    overflow: hidden;
+
+}
+
+.colorpicker_focus {
+
+    background-position: center;
+
+}
+
+.colorpicker_hex.colorpicker_focus {
+
+    background-position: bottom;
+
+}
+
+.colorpicker_submit.colorpicker_focus {
+
+    background-position: bottom;
+
+}
+
+.colorpicker_slider {
+
+    background-position: bottom;
+
+}
+
+
+
+
+
+
+
+
+
+.colorpicker {
+    width: 356px;
+    height: 176px;
+    overflow: hidden;
+    position: absolute;
+    background: url(css-images/colorpicker_background.png);
+    font-family: Arial, Helvetica, sans-serif;
+    display: none;
+    z-index:99;
+}
+.colorpicker_color {
+    width: 150px;
+    height: 150px;
+    left: 14px;
+    top: 13px;
+    position: absolute;
+    background: #f00;
+    overflow: hidden;
+    cursor: crosshair;
+}
+.colorpicker_color div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 150px;
+    background: url(css-images/colorpicker_overlay.png);
+}
+.colorpicker_color div div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 11px;
+    height: 11px;
+    overflow: hidden;
+    background: url(css-images/colorpicker_select.gif);
+    margin: -5px 0 0 -5px;
+}
+.colorpicker_hue {
+    position: absolute;
+    top: 13px;
+    left: 171px;
+    width: 35px;
+    height: 150px;
+    cursor: n-resize;
+}
+.colorpicker_hue div {
+    position: absolute;
+    width: 35px;
+    height: 9px;
+    overflow: hidden;
+    background: url(css-images/colorpicker_indic.gif) left top;
+    margin: -4px 0 0 0;
+    left: 0px;
+}
+.colorpicker_new_color {
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    left: 213px;
+    top: 13px;
+    background: #f00;
+}
+.colorpicker_current_color {
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    left: 283px;
+    top: 13px;
+    background: #f00;
+}
+.colorpicker input {
+    background-color: transparent;
+    border: 1px solid transparent;
+    position: absolute;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #898989;
+    top: 4px;
+    right: 11px;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+    height: 11px;
+}
+.colorpicker_hex {
+    position: absolute;
+    width: 72px;
+    height: 22px;
+    background: url(css-images/colorpicker_hex.png) top;
+    left: 212px;
+    top: 142px;
+}
+.colorpicker_hex input {
+    right: 6px;
+}
+.colorpicker_field {
+    height: 22px;
+    width: 62px;
+    background-position: top;
+    position: absolute;
+}
+.colorpicker_field span {
+    position: absolute;
+    width: 12px;
+    height: 22px;
+    overflow: hidden;
+    top: 0;
+    right: 0;
+    cursor: n-resize;
+}
+.colorpicker_rgb_r {
+    background-image: url(css-images/colorpicker_rgb_r.png);
+    top: 52px;
+    left: 212px;
+}
+.colorpicker_rgb_g {
+    background-image: url(css-images/colorpicker_rgb_g.png);
+    top: 82px;
+    left: 212px;
+}
+.colorpicker_rgb_b {
+    background-image: url(css-images/colorpicker_rgb_b.png);
+    top: 112px;
+    left: 212px;
+}
+.colorpicker_hsb_h {
+    background-image: url(css-images/colorpicker_hsb_h.png);
+    top: 52px;
+    left: 282px;
+}
+.colorpicker_hsb_s {
+    background-image: url(css-images/colorpicker_hsb_s.png);
+    top: 82px;
+    left: 282px;
+}
+.colorpicker_hsb_b {
+    background-image: url(css-images/colorpicker_hsb_b.png);
+    top: 112px;
+    left: 282px;
+}
+.colorpicker_submit {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    background: url(css-images/colorpicker_submit.png) top;
+    left: 322px;
+    top: 142px;
+    overflow: hidden;
+}
+.colorpicker_focus {
+    background-position: center;
+}
+.colorpicker_hex.colorpicker_focus {
+    background-position: bottom;
+}
+.colorpicker_submit.colorpicker_focus {
+    background-position: bottom;
+}
+.colorpicker_slider {
+    background-position: bottom;
+}
+
+.colorpickerHolder{
+    height: 40px;
+    left: 0;
+    top: 0;
+    width: 40px;
+    float: left;
+    border: 1px solid #ccc;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.colorpickerHolder div{
+    background:transparent url(css-images/select2.png) repeat scroll center center;
+    height:40px;
+    left:4px;
+    top:4px;
+    width:40px;
+}
+#colorpickertable .inptxt{width:70px;}
+#colorpickertable .clp{width:250px;padding-left:15px;}
+
+
+
+
+/*=======================================================================
+
+    Tabs
+
+ ========================================================================*/
+
+.tabs {
+    display: block;
+    width:700px;
+    margin-top:30px;
+    border:1px solid #CCC;
+}
+
+.tabs ul {
+    margin: 0;
+    padding: 0;
+    height: 20px;
+    border-bottom: 1px solid #CCC;
+}
+
+.tabs li {
+    display: block;
+    width:200px;
+    padding: 0;
+    margin: 0 10px 0 0;
+    line-height: 30px;
+    float: left;
+    color: #999;
+    cursor: default;
+}
+
+.tabs li a {
+    display: block;
+    width: auto;
+    height: 29px;
+    padding: 0 9px;
+    line-height: 30px;
+    border: 1px solid #CCC;
+    margin: 0 -1px 0 0;
+    color: #05390a;
+    background: #5dbb73;
+    text-decoration: none;
+}
+
+.tabs li a:hover {
+    text-decoration: none;
+}
+
+.tabs li.active a {
+    height: 30px;
+    font-weight: bold;
+    background: #ebffef;
+    border-width: 1px 1px 0 1px;
+}
+
+.tabs div {
+    display: none;
+    padding: 20px 10px;
+}
+
+#googleMap > div{
+    display: block;
+}
+
+#googleMap > div div{
+    display: block;
+}
+/*  */
+
+#tabsys input[type="text"],#tabpat input[type="text"]{
+    float: left;
+    display: inline;
+}
+
+#tabsys .colorpickerHolder,#tabpat .colorpickerHolder{
+    display: inline;
+    float:left;
+    padding:0px;
+
+}
+#tabsys .sqcolor,#tabpat .sqcolor{
+    display: block;
+    padding:0px;
+}
+
+/*
+.tabs tabadmin {
+               display: none;
+padding: 20px 10px;
+       }
+*/
+
+.tabs div.active {
+    display: block;
+}
+
+.tabs li:last-child {
+    margin-right: 0;
+}
+
+/**** Pretty Tab Styles ****/
+
+.pretty.tabs ul {
+    display: table;
+    width: 100%;
+    border: 1px solid #CCC;
+    background: #f7f7f7;
+
+
+}
+
+.pretty.tabs li {
+    display: table-cell;
+    float: none;
+    text-align: center;
+}
+
+.pretty.tabs li a {
+    padding: 0;
+    font-size: 14px;
+    height: 52px;
+    line-height: 52px;
+    color: #444;
+    border: none;
+    border-right: 1px solid #CCC;
+    font-weight: bold;
+    background: transparent;
+}
+
+.pretty.tabs li:last-child a {
+    border-right: none;
+}
+
+.pretty.tabs li.active a {
+    font-weight: bold;
+    color: #fff;
+    position: relative;
+    border: none;
+    background: #D74142; /* Old browsers */
+
+
+}
+
+.pretty.tabs ul li.active:first-child a {
+
+    margin-left: 0;
+}
+
+.pretty.tabs ul li.active:last-child a {
+
+}
+
+.ie7 .pretty.tabs > ul { width: 100%; height: 51px; }
+.ie7 .pretty.tabs > ul li { display: block; float: left; margin: 0; }
+.ie7 .pretty.tabs > ul li a { padding: 0 20px; }
+
+
+
+/**** Pill Tabs ****/
+
+.pill.tabs { height: auto; }
+.pill.tabs li, .pill.tabs li, .pretty.pill.tabs li { float: none; height: auto; }
+.pill.tabs li a { display: block; width: auto; height: auto; padding: 15px 20px; line-height: 1; border: solid 0 #ccc; border-width: 1px 1px 0; margin: 0; color: #555; background: #eee; font-size: 15px; font-size: 1.5rem; }
+.pill.tabs li a.active { height: auto; margin: 0; border-width: 1px 0 0; background: #fff; }
+
+.pretty.pill.tabs { border-bottom: solid 1px #eee; height: auto; }
+.pretty.pill.tabs li a { padding: 15px 20px; border: none; border-left: 1px solid #eee; border-right: 1px solid #eee; border-top: 1px solid #eee; background: #fff; }
+.pretty.pill.tabs li a.active { border: none; background: #00a6fc; color: #fff; margin: 0; position: static; top: 0; height: auto; }
+.pretty.pill.tabs li.active:first-child a { margin: 0; }
+
+
+@media only screen and (max-width: 767px) {
+    .pretty.tabs ul {
+
+        overflow: hidden;
+    }
+
+    .pretty.tabs li a {
+        height: 36px;
+        line-height: 36px;
+        font-size: 14px;
+    }
+}
+
+/* Vertically Align Stuff */
+
+.valign { display: table; width: 100%; }
+
+.valign > div, .valign > article { display: table-cell; vertical-align: middle; }
+
+
+/*3.8 update*/
+
+.form-table, .form-table td, .form-table th, .form-table td p, .form-wrap label{
+    font-size: 13px;
+    font-weight: normal;
+}
+
+textarea, input, select {
+    font-size: 13px;
+}
+
+.field_item input{
+    width:125px;
+}
+
+#add_status2
+#add_feature2,
+#add_status,
+#add_feature{
+/*    margin: 10px 0px 10px 0px;
+    background-color: #4ecb8f;
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;*/
+    display: inline-block;
+    background-color: #313643!important;
+    color: #f3f4f7!important;
+    text-align: center;
+    padding: 8px 25px;
+    box-shadow: none;
+    border: none;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+.redux-container .redux-main .select2-default,
+.redux-container .redux-main .select2-container .select2-choice{
+    background-image: none;
+    line-height: 36px;
+    height: 36px;
+    border-radius: 0px;
+    border: 1px solid #ddd;
+    color: #32373c!important;
+}
+
+.redux-container .select2-drop-active {
+    border-radius: 0px;
+}
+
+.redux-container .redux-main .select2-container .select2-choice .select2-arrow{
+    background-image: none;
+    padding-top: 4px;
+    padding-right: 6px;
+    padding-left: 6px;
+    border-radius: 0px;
+    border: 1px solid #ddd;
+}
+
+.redux-container .redux-main .select2-container.select2-allowclear .select2-choice abbr {
+    display: none;
+    right: 40px;
+    top: 11px;
+}
+
+.redux-container .redux-main .select2-container-multi .select2-choices .select2-search-choice {
+    padding: 10px 15px 10px 25px;
+    background-image: none;
+    box-shadow: none;
+    border: 1px solid #ddd;
+    background-color: #292e39 !important;
+    color: #fff
+}
+
+.redux-container #redux-footer #redux-share i {
+    color: #23282d;
+}
+
+.redux-container #redux-footer input:nth-of-type(2) {
+    margin: 0px 5px;
+}
+
+.admin-color-fresh #redux-header,
+.wp-customizer #redux-header {
+    border-color: #23282d;
+}
+
+.select2-search-choice-close {
+    top: 11px;
+    left: 8px!important;
+}
+
+.select2-container-multi .select2-choices .select2-search-field input {
+    margin: 3px 0 3px 5px;
+}
+
+.redux-field-container .wp-editor-container textarea.wp-editor-area {
+    width: 100%;
+    margin: 0;
+    box-shadow: none;
+    max-width: 100%;
+
+}
+
+.select2-container-multi .select2-choices {
+    border: 1px solid #ddd!important;
+}
+
+#wp_estate_map_style-textarea {
+    max-width: 100%;
+}
+
+#estate_property-sectionid #property_address {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+
+
+#estate_property-sectionid .algolia-places {
+    width: 250px;
+}
+
+#estate_property-sectionid .algolia-places .button.ap-input-icon.ap-icon-pin {
+    position: absolute;
+    float: right;
+    right: 10px;
+    left: auto;
+}
+
+#estate_property-googlemap input[type=text],
+#estate_property-custom input[type=text],
+#estate_property-propdetails input[type=text],
+#estate_property-sectionid input[type=text],
+#estate_property-sectionid select,
+#estate_property-custom select,
+.post-type-estate_property select#embed_video_type,
+.post-type-estate_property select#property_agent,
+.post-type-estate_property select#sidebar_option,
+.post-type-estate_property select#sidebar_select,
+.post-type-estate_property select#checkin_change_over,
+.post-type-estate_property select#checkin_checkout_change_over,
+.post-type-estate_property select#city_fee_per_day,
+.post-type-estate_property select#cleaning_fee_per_day,
+.post-type-estate_property select#page_custom_zoom{
+    border-radius: 2px;
+}
+
+
+
+#estate_property-googlemap textarea,
+#estate_property-custom textarea,
+#estate_property-propdetails textarea,
+#estate_property-sectionid textarea{
+        width:250px;
+}
+
+
+.advsearchlable{
+    margin-left: 10px;
+}
+
+.pblankh{
+  padding-left: 0px;
+}
+
+
+
+
+
+.wpb-content-layouts .wpb-layout-element-button .wpestate_vc_logo {
+    background-image: url(css-images/vclogo.png);
+    width: 32px;
+    height: 32px;
+    background-size: contain;
+}
+.wpb-content-layouts .wpb-layout-element-button .vc-element-icon.wpestate_vc_logo {
+    width: 32px;
+    height: 32px;
+}
+
+.vc_license-activation-notice{
+    display:none;
+}
+
+
+.floor_p{
+    width:33%;
+    float:left;
+    height: 50px;
+}
+
+.plan_description{
+    width:345px;
+}
+
+.plan_row{
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #f0f0f0;
+    margin-bottom: 15px;
+    position:relative;
+}
+
+.plan_row i {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background-color: #a51e6c;
+    color: #fff;
+    font-size: 20px;
+    padding: 5px;
+    cursor: pointer;
+}
+.plan_row textarea,
+.plan_row input{
+    width:90%;
+}
+
+#plan_image_button{
+    width:100px!important;
+}
+
+#add_new_plan {
+    margin: 10px 0px 30px 0px;
+    cursor:pointer;
+
+    background-color: #4ecb8f;
+    color: #fff;
+    padding: 5px;
+}
+
+
+
+.create_invoice_form input[type=text],
+.create_invoice_form input[type=password],
+.create_invoice_form input[type=email],
+.create_invoice_form input[type=url],
+.create_invoice_form input[type=number],
+.create_invoice_form textarea {
+    width: 70%;
+    margin-bottom: 11px;
+    font-family: 'Arial';
+    font-size: 14px;
+    padding: 8px 0px 8px 8px;
+    color: #1a171b;
+    border: 1px solid #e5e5e5;
+    border-radius: 2px;
+    background-color: #fff!important;
+    box-shadow: none;
+    text-align: left;
+}
+
+.date_interval{
+    width: 280px;
+    float: left;
+}
+
+.date_duration{
+    width: 100%;
+    float: left;
+}
+
+.total_inv_span{
+    width:300px;
+    float:left;
+}
+
+.invoice_details{
+    float:left;
+    width:100%;
+    border:1px solid #45b37e;
+    margin:15px 0px;
+}
+
+.invoice_row{
+    float: left;
+    width: 100%;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    border-bottom: 1px solid #45b37e;
+}
+
+.header_legend{
+    background: #45b37e;
+    color: #fff;
+}
+
+.inv_legend{
+    width:100px;
+    float: left;
+    line-height: 1.2em;
+}
+
+.invoice_total .inv_legend{
+    width:180px;
+}
+.invoice_total  .inv_legend.inv_legend_total{
+    width:100px;
+}
+.inv_data{
+    width:100px;
+    float: left;
+}
+
+.inv_exp{
+    width:280px;
+    float: left;
+}
+
+.invoice_data{
+    display: inline;
+    width: 100%;
+}
+
+
+.email_row{
+    float: left;
+    width: 100%;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+.email_row label{
+    width:100%;
+    float:left;
+}
+
+.email_row .extra_exp{
+    width:96%;
+}
+.email_row input,
+.email_row textarea{
+    width:96%;
+    margin:0px 0px 10px 0px;
+}
+
+/*=new interface*/
+
+
+.new_admin_submit{
+    font-size: 14px;
+    display: inline-block;
+    font-weight: 500;
+    letter-spacing: 1px;
+    border-radius: 4px;
+    background-clip: padding-box;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    outline: 0;
+    border: 0;
+    padding: 11px 25px!important;
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff !important;
+    background-color: #313643;
+    min-width: auto!important;
+    padding-top: 9px!important;
+}
+
+.new_admin_submit_right{
+    float: right;
+    margin: 15px 15px 0px 0px;
+}
+
+.theme_options_hide{
+    display:none;
+}
+
+#wpestate_wrapper_admin_menu h1{
+    margin-top: 0px;
+    padding: 20px 23px;
+    display: inline-block;
+}
+
+
+.theme_option_separator{
+    border-bottom: 0px solid #ccc;
+}
+
+
+.estate_option_row{
+   border-bottom: 1px solid #FFE7E7;
+   padding: 20px 20px 20px 230px;
+}
+
+.estate_option_row_no_border{
+    padding: 20px 20px 20px 230px;
+}
+
+#splash_slider_images{
+    display: inline-block;
+    padding-left: 30px;
+
+}
+
+.splash_image_info,
+.splash_slider_info,
+.splash_video_info{
+    display:none;
+}
+
+#splash_slider_images.splash_slider_info{
+    display:none;
+}
+
+
+.header_explanation {
+    font-size: 12px;
+    display: block;
+    padding: 0px 0px 0px 230px;
+}
+
+#page_custom_video_cover_image_button,
+#page_custom_video_ogv_button,
+#page_custom_video_webbm_button,
+#page_custom_video_button{
+    box-shadow: none !important;
+    border-radius: 6px;
+    background-clip: padding-box;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    border-color: #d9d9d9;
+    vertical-align: middle;
+    height: 40px;
+    padding: 7px 9px;
+    min-width: 300px;
+    -webkit-appearance: none;
+    border: 1px solid #d9d9d9;
+}
+
+
+.estate_option_row_submit{
+    padding: 20px 20px 20px 230px;
+}
+
+.label_option_row{
+    font-weight: bold;
+    font-size:15px;
+    color: #002B2B;
+}
+
+.option_row_explain{
+    color: #888888;
+/*    font-style: italic;*/
+    margin-bottom: 10px;
+    line-height: 1.6em;
+}
+
+#wpestate_wrapper_admin_menu select {
+    box-shadow: none !important;
+    border-radius: 0px;
+    background-clip: padding-box;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    border-color: #d9d9d9;
+    vertical-align: middle;
+    height: 40px;
+    padding: 7px 9px;
+    min-width: 300px;
+}
+
+#custom_fields_search select,
+#custom_fields_wrapper select,
+#custom_fields  select {
+    width:135px!important;
+    min-width:135px!important;
+}
+
+
+
+.upload_button {
+    min-width: 150px!important;
+    padding-top: 6px!important;
+    background-color: #313643!important;
+    color: #f3f4f7!important;
+     min-height: 40px;
+
+}
+
+#wpestate_search_bar,
+#wpestate_wrapper_admin_menu input{
+    box-shadow: none !important;
+    background-clip: padding-box;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    vertical-align: middle;
+    height: 40px;
+    padding: 7px 9px;
+    min-width: 300px;
+    -webkit-appearance: none;
+}
+
+
+#free_mem_list_unl{
+    width: 18px;
+    height: 18px!important;
+    min-width: 18px!important;
+    border-radius:1px!important;
+}
+
+#email_management_tab input{
+    margin-bottom: 20px;
+    min-width: auto!important;
+}
+
+
+#wpestate_wrapper_admin_menu textarea{
+    border: 1px solid #d9d9d9;
+    box-shadow: none !important;
+    border-radius: 0px;
+    background-clip: padding-box;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+
+}
+#wpestate_wrapper_admin_menu #custom_fields_wrapper .field_row textarea {
+    border-radius: 0px;
+    padding: 0px;
+}
+
+
+#global_settings_tab input:focus{
+    border-radius: 0px;
+}
+
+.theme_options_sidebar ul{
+    float:left;
+    width:100%;
+}
+
+.theme_options_sidebar ul li{
+    float: left;
+    padding: 9px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 3px 10px;
+    width: 160px;
+}
+
+.theme_options_sidebar ul li.selected_option{
+    background-color: #CDCDCD;
+    background-color: #313643;
+    color: #e7e8eb;
+
+}
+.theme_options_sidebar ul li:hover{
+    background-color: #a1a8b7;
+}
+
+
+.wrap-topbar{
+    position:relative;
+    float:left;
+    width: 100%;
+    height: 100px;
+    background-color: #3e4453;
+    color: #9DA5B9;
+}
+.theme_details{
+    position: absolute;
+    top: 78px;
+    right: 20px;
+}
+
+#title_demo_import{
+    color: #F8D10A;
+    margin: 25px 20px 20px 20px;
+    float: left;
+    font-size: 23px;
+    font-weight: 400;
+    padding: 9px 15px 4px 0;
+    line-height: 29px;
+}
+
+.upload_details{
+    width: 100%;
+    float: left;
+    margin-bottom: 20px;
+}
+
+
+.admin_top_bar_button{
+    color: #9DA5B9;
+    cursor: pointer;
+    text-align: center;
+    float: left;
+    width: 110px;
+    height: 100px;
+    padding: 27px 6px 10px 6px;
+    box-sizing: border-box;
+}
+
+.tobpbar_selected_option,
+.admin_top_bar_button:hover{
+    background-color: #313643;
+}
+
+.admin_top_bar_button img{
+    display: block;
+    margin: auto;
+    margin-bottom: 5px;
+}
+
+.uploaded_thumb {
+    float: left;
+    display: inline;
+    margin: 10px 20px 10px 0px;
+    position: relative;
+}
+
+#wpestate_sidebar_menu{
+    width: 200px;
+    background-color: #ECECEC;
+    border: 1px solid #E4E4E4;
+    float:left;
+    min-height: 800px;
+}
+
+#wpestate_wrapper_admin_menu{
+    width: 100%;
+    /* float: left; */
+    min-height: 1200px;
+    background: #fff;
+}
+
+
+
+
+#estate_admin_form{
+    width: 100%;
+    float: left;
+}
+
+#aaiu-uploader-demo{
+    float:left;
+    clear:both;
+    font-size: 14px;
+    text-transform: uppercase;
+    line-height: normal!important;
+    background-color: #002B2B !important;
+    color: #fff;
+    padding: 9px 26px!important;
+    -webkit-appearance: button;
+    cursor: pointer;
+    color: #fff;
+    margin: 20px 10px 10px 0px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    text-shadow: none;
+}
+
+#upload-container{
+    float: left;
+    width: 100%;
+    background: #fff;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.file_progress{
+    float:left;
+    width:100%;
+}
+
+.uploaded_images_demo{
+    position: relative;
+    float: left;
+    margin-right: 20px;
+}
+
+.activate_wrapper{
+
+}
+
+.activate_template{
+    display: inline-block;
+    bottom: -50px;
+    right: -5px;
+    background-color: #3C90BE;
+    cursor: pointer;
+    font-size: 14px;
+    text-transform: uppercase;
+    line-height: normal!important;
+    background-color: #002B2B !important;
+    color: #fff;
+    padding: 9px 26px!important;
+    -webkit-appearance: button;
+    cursor: pointer;
+    color: #fff;
+    margin: 20px 10px 10px 0px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    text-shadow: none;
+}
+
+
+#wpestate_wrapper_admin_menu  input[type=checkbox].admin_checker{
+    width: 15px;
+    min-width: 15px;
+    height: 15px;
+    border-radius: 0px;
+    margin-right: 10px;
+    margin-top: 2px;
+}
+
+.template-item{
+    float: left;
+    margin-right: 25px;
+}
+
+.importing_mess {
+    bottom: -37px;
+    left: 2px;
+    padding: 10px 0px;
+    color: #002B2B;
+    width: 200px;
+    display: inline-block;
+}
+
+/*=api*/
+.apinotice{
+    background-color: #16A085;
+    color: #fff;
+    padding: 10px;
+    padding: 10px 20px 10px 20px;
+    display: inline-block;
+    margin-left: 0px;
+}
+
+.apinotice.apierror{
+    background-color:red;
+
+}
+
+
+.row{
+
+}
+
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-10,
+.col-md-11,
+.col-md-12 {
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.col-md-12 {
+    width: 100%;
+    background: #ddd;
+}
+
+.col-md-6 {
+    width:50%;
+}
+
+.col-md-4 {
+    width:33.3%;
+}
+
+.col-md-3 {
+    width:25%;
+}
+
+.col-md-2 {
+    width:16.6%;
+}
+
+
+.col-md-1 {
+    width:8.3%
+}
+
+.payments_management_wrapper{
+    font-size: 13px;
+    width: 100%;
+    float: left;
+}
+
+.payments_management_wrapper .payment_management_head{
+    border:1px solid #ccc;
+    font-size: 14px;
+    background-color: #3e4453;
+    color:#fff;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.payments_management_wrapper .col-md-1,
+.payments_management_wrapper .col-md-2,
+.payments_management_wrapper .col-md-3,
+.payments_management_wrapper .col-md-4,
+.payments_management_wrapper .col-md-5,
+.payments_management_wrapper .col-md-6,
+.payments_management_wrapper .col-md-7,
+.payments_management_wrapper .col-md-8,
+.payments_management_wrapper .col-md-9,
+.payments_management_wrapper .col-md-10,
+.payments_management_wrapper .col-md-11,
+.payments_management_wrapper .col-md-12{
+    border: 1px solid #eee;
+    padding: 5px;
+    box-sizing: border-box;
+    min-height: 60px;
+
+}
+
+.actions_row{
+    margin-bottom: 10px;
+}
+
+
+.pay_owner,
+.refund_security,
+.refund_buyer,
+.issue_final_invoice{
+    padding: 5px 15px;
+    float:left;
+    font-size:14px;
+    color:#fff;
+    margin: 0 20px!important;
+    cursor:pointer;
+}
+
+.pay_owner{
+    background-color: #4ecb8f;
+}
+.refund_security{
+     background-color: #4ecb8f;
+}
+
+.refund_buyer{
+     background-color: #4ecb8f;
+}
+
+.issue_final_invoice{
+     background-color: #4ecb8f;
+}
+
+/*=Payments management*/
+
+.woocommerce table.shop_table, .woocommerce-page table.shop_table {
+    border: 1px solid #dce0e0!important;
+    background-color: #fff;
+    margin: 0px -1px 24px 0px;
+    text-align: left;
+    width: 100%;
+    border-collapse: separate;
+    padding: 0px;
+}
+
+
+.info-container{
+    padding: 24px 24px;
+    border: 1px solid #e4e4e4;
+    background-color: #ffffff;
+    margin-bottom: 24px;
+}
+.label_option_row{
+    margin-bottom: 10px;
+}
+
+.woocommerce table.shop_table,
+.woocommerce-page table.shop_table {
+    border: 1px solid #dce0e0!important;
+    background-color: #fff;
+}
+
+.woocommerce table.my_account_orders,
+.woocommerce-page table.my_account_orders{
+    padding:0px;
+}
+
+.shop_table thead{
+    color: #484848;
+    font-size: 16px;
+    background-color: #edefed;
+    border-bottom: 1px solid #dce0e0;
+    color: #484848;
+    font-size: 13px;
+    padding: 20px 20px!important;
+}
+
+.shop_table tbody tr:nth-of-type(even) {
+    background-color: #f6f2f2!important;
+}
+
+.email_row{
+    margin-bottom: 10px;
+}
+
+.sms_title{
+    font-weight: bold;
+    font-size: 13px;
+}
+
+
+.woocommerce a.button.refund_security_buyer,
+.woocommerce a.button.pay_owner,
+.woocommerce a.button.refund_full_buyer,
+.woocommerce a.button.refund_buyer{
+    padding: 10px 24px!important;
+    font-size: 12px;
+    background-color: #00A699;
+    margin-right: 10px;
+    font-weight: normal;
+}
+
+
+
+.woocommerce-MyAccount-navigation ul li.is-active a{
+    border-bottom:3px solid #bbb;
+}
+
+.shop_table tbody td {
+    padding: 10px 7px !important;
+    border-top-color: #fafafa !important;
+}
+
+
+.woocommerce-account  table th {
+    text-align: center;
+    padding: 18px 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+
+.hidden{
+    display:none;
+}
+
+.invoice_confirmed{
+    width:100%;
+    font-weight: bold;
+}
+
+.invoice_paid{
+    width:100%;
+    font-weight: bold;
+    float:left;
+}
+
+.property-thead{
+    width:100px;
+}
+
+.status-thead{
+    width:100px;
+}
+
+.period-thead{
+    width:100px;
+}
+
+.payment_email_details{
+    width: 100%;
+    float: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.payment_not_possible{
+    float: left;
+    padding: 7px 10px;
+    background-color: #f7f7f7;
+    color: #a0a5aa;
+    border-radius: 4px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+}
+
+.pagnav-wrapper{
+    display: none;
+}
+
+.invoice_details_head{
+    width:200px;
+}
+
+
+.invoice_details_explanation{
+    width:100%;
+    float:left;
+}
+
+.payment_management_rentals_wrapper{
+    margin-left: 220px;
+
+}
+
+#estate_invoice-sectionid #print_invoice{
+    display:none;
+}
+
+.invoice_explantions{
+    width:100%;
+    float:left;
+    margin: 5px 0px;
+}
+
+#add_curency_wrapper{
+    display: inline-block;
+}
+
+.wpestate_editor_class .wp-editor-wrap{
+    float:left;
+    width:100%;
+}
+
+#menu-posts-wpestate_booking ul {
+    padding: 0px!important;
+}
+
+
+.welcome-panel .welcome-panel-close{
+    display:none!important;
+}
+
+.post-type-wpestate_invoice .wrap .wp-heading-inline+.page-title-action,
+#menu-posts-wpestate_booking li,
+.post-type-wpestate_booking .wrap .wp-heading-inline+.page-title-action,
+.welcome-panel .welcome-panel-close {
+    display:none!important;
+}
+
+
+
+.welcome-panel .welcome-panel-close{
+    display:none!important;
+}
+
+.wpestate_admin_menu {
+    position: absolute;
+    top: 45px;
+    right: 20px;
+    height: 30px;
+}
+
+.wpestate_admin_menu a,
+.wpestate_admin_submenu{
+    text-transform: uppercase;
+    float: left;
+    font-weight: 600;
+    display: block;
+    right: 0px;
+    padding: 0px 5px;
+    color: #ece9e9;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    transition: all .3s ease;
+    cursor: pointer;
+    letter-spacing: -0.1px;
+}
+
+.wpestate_admin_menu .menu_admin{
+    display: inline;
+    height: 100%;
+}
+
+.wpestate_admin_menu a:hover,
+.wpestate_theme_opt a,
+.wpestate_theme_opt a:hover,
+.wpestate_admin_submenu:hover{
+    color: #fff;
+}
+
+.welcome-panel {
+    padding: 0px;
+    position: relative;
+    overflow: hidden;
+    margin: 16px 0;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    font-size: 13px;
+    line-height: 2.1em;
+    width: 100%;
+    height: auto;
+    min-height: 300px;
+}
+
+
+.wpestate_admin_theme_back{
+    position: absolute;
+    top: 30px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-image: url(css-images/wpadmin_back.jpeg);
+    background-size: auto;
+    background-position: 0% 50%;
+    height: 300px;
+}
+.wpestate_admin_theme_gradient{
+    position: absolute;
+    top:30px;
+    left:0px;
+    width:100%;
+    height: 100%;
+    background-color: #3e4453;
+    opacity: 0.65;
+    height: 300px;
+}
+
+
+
+.theme_details_welcome {
+    font-weight: 500;
+    color: #fff;
+    text-transform: uppercase;
+    float: left;
+    margin-right: 7px;
+    line-height: 42px;
+}
+
+.wpestate_admin_version {
+    position: absolute;
+/*    bottom: 15px;*/
+    top: 240px;
+    right: 20px;
+}
+
+.wpestate_admin_version .dashicons.dashicons-lock,
+.wpestate_admin_version .dashicons.dashicons-unlock {
+    float: left;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 18px;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+#start_wprentals_setup {
+    float: left;
+}
+
+.wpestate_admin_theme_opt {
+    line-height: 40px;
+    top: 50%;
+    top: 139px;
+    position: absolute;
+    width: auto;
+    margin-top: -22px;
+    right: 15%;
+    font-size: 14px;
+}
+
+#start_wprentals_setup {
+    float: left;
+    margin-right: 10px;
+    background-color: #fff;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+.wpestate_theme_opt{
+    float: left;
+    color: #fff;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+.wpestate_admin_button{
+    padding: 0px 20px;
+    border: 2px solid #fff;
+    border-radius: 3px;
+    line-height: 40px;
+    font-weight: 600;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.wpestate_admin_button.wpestate_start_wrapper_close {
+    line-height: 20px;
+    padding: 10px;
+    float: right;
+}
+
+.reverse_but{
+    background-color: #4d5567;
+
+    font-weight: 600;
+    color: #fff;
+}
+
+.reverse_but:hover{
+    background-color: #576074;
+    color: #fff;
+}
+
+.admin_widget_logo{
+    float:left;
+   max-height: 85px;
+}
+
+.dasboard_widget_color{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border: 1px solid #efefef;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.more_colors{
+    display: inline-block;
+}
+
+.dashboard-widget-list{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.new_page_title{
+    font-weight: 600;
+    width: 130px;
+    display: inline-block;
+}
+
+.see_pages_dash{
+    margin-bottom: 31px;
+}
+
+.add_form_wrapper{
+    margin-bottom: 10px;
+}
+
+#new_page_title,
+#widget_new_page_template{
+    height: 35px;
+    width: 250px;
+}
+
+#wpestate_dashboard_links form{
+    margin-top: 10px;
+}
+
+#wpestate_set_payments,
+#wpestate_dashboard_new_property,
+#wpestate_dashboard_welcome,
+#wpestate_dashboard_links{
+    height: 287px;
+}
+
+#start_wprentals_setup:hover{
+    background-color: #b881fc;
+    border-color: #b881fc;
+    color: #fff;
+}
+
+.wpestate_theme_opt:hover{
+    border-color: #b881fc;
+}
+
+.dashboard_widget_logo {
+    top: 55px;
+    position: absolute;
+    left: 25px;
+    opacity: 0.85;
+    max-width: 200px;
+    height: auto
+}
+
+.wpestate_dashboard_welcome .dashboard_widget_logo {
+    width:130px;
+    height: auto;
+}
+
+
+.wpestate_admin_menu ul li ul {
+    visibility: hidden;
+    opacity: 0;
+    width: 0px;
+}
+
+.wpestate_admin_menu ul li:hover>ul {
+    visibility: visible;
+    opacity: 1;
+    position: absolute;
+    right: 5px;
+    border: 1px solid #fff;
+    padding: 3px;
+    top: 35px;
+    width: 125px;
+    background: #586173;
+}
+.wpestate_dropdown_admin a{
+    font-size: 11px;
+    letter-spacing: initial;
+}
+.wpestate_admin_menu ul li i{
+    font-size:12px;
+}
+.dashicons-arrow-down-alt2:before {
+    content: "\f347";
+    font-size: 13px;
+    float: left;
+    margin-top: 1px;
+}
+
+.wpestate_admin_submenu {
+    float: left;
+    margin: 0px;
+}
+
+.welcome-panel li {
+    font-size: 13px;
+    float: left;
+    padding: 0px 7px;
+}
+
+.wpestate_admin_menu .dashicons {
+    line-height: 1.4em;
+    margin-left: 5px;
+}
+
+.dashboard_widget_exp{
+    font-weight: 600;
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 1800px) and (min-width: 1500px){
+#wpbody-content #dashboard-widgets #postbox-container-2, #wpbody-content #dashboard-widgets #postbox-container-3, #wpbody-content #dashboard-widgets #postbox-container-4 {
+        float: left;
+
+    }
+}
+
+@media only screen and (max-width: 1499px) and (min-width: 800px){
+#wpbody-content #dashboard-widgets #postbox-container-2, #wpbody-content #dashboard-widgets #postbox-container-3, #wpbody-content #dashboard-widgets #postbox-container-4 {
+        float: left;
+        width: 49.5%;
+    }
+}
+
+
+.wpestate_admin_end_notice,
+.wpestate_admin_start_activate_theme,
+.wpestate_admin_start_map,
+.wpestate_admin_start_general_settings,
+.wpestate_admin_start_booking_settings,
+.wpestate_admin_start_booking_payment{
+    display: none;
+}
+
+#wpestate_start_wrapper {
+    width: 100%;
+    margin-top: 300px;
+    padding: 20px;
+    display: none;
+}
+
+#wpestate_start_wrapper h1 {
+    font-weight: 600;
+}
+
+.label_option_start {
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+
+#wpestate_start_wrapper .option_row_explain {
+    line-height: 1.6em;
+    width: 40%;
+}
+
+#wpestate_start_wrapper select {
+    padding: 2px 5px;
+    line-height: 35px;
+    height: 35px;
+    width: 250px;
+}
+
+#wpestate_start_wrapper .estate_start_setup {
+    margin: 20px 0px;
+}
+
+#wpestate_start_wrapper input[type=text]{
+    padding: 10px;
+    line-height: 35px;
+    width: 250px;
+    height: 35px;
+}
+
+.wpestate_admin_start_general_settings input[type=text]{
+    width: 150px;
+}
+
+.wpestate_admin_start_general_settings select{
+    width: 100px;
+}
+
+.wpestate_admin_start_booking_settings select{
+    width: 190px;
+}
+
+#wpestate_start_wrapper .reverse_but {
+    width: 110px;
+    padding: 0px;
+}
+
+.wpestate_admin_end_notice p,
+.wpestate_admin_start_notice_wpapper,
+#wpestate_start {
+    text-align: center;
+}
+
+.wpestate_admin_start_notice_wpapper .wpestate_admin_button {
+    border-color: #b881fc;
+    margin: 0px 20px;
+}
+
+.wpestate_admin_start_notice_wpapper .wpestate_admin_button a{
+     color: #444;
+}
+
+.wpestate_admin_start_notice_wpapper .wpestate_admin_button:hover {
+    color: #fff;
+    background: #b881fc;
+}
+.wpestate_admin_start_notice_wpapper .wpestate_admin_button:hover a{
+    color: #fff;
+}
+
+#toplevel_page_WpRentalsChildtheme .wp-menu-name,
+#toplevel_page_WpRentals .wp-menu-name {
+    padding: 8px 10px!important;
+}
+
+.field-megamenu-background.description.description-wide img {
+    width: 100px;
+    height: auto;
+}
+
+.edit-tags-php #category_featured_image {
+    margin-bottom: 10px;
+}
+
+.edit-tags-php #category_featured_image_button{
+    padding-top: 0px!important;
+    margin-top: 0px;
+}
+
+#category_featured_image_button {
+    padding-top: 0px!important;
+    margin-top: 0px;
+}
+
+
+/*!
+ * Font Awesome Icon Picker
+ * https://farbelous.github.io/fontawesome-iconpicker/
+ *
+ * Originally written by (c) 2016 Javi Aguilar
+ * Licensed under the MIT License
+ * https://github.com/farbelous/fontawesome-iconpicker/blob/master/LICENSE
+ *
+ */
+.iconpicker-popover.popover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+  max-width: none;
+  padding: 1px;
+  text-align: left;
+  width: 234px;
+  background: #f7f7f7;
+  z-index: 9;
+}
+.iconpicker-popover.popover.top,
+.iconpicker-popover.popover.topLeftCorner,
+.iconpicker-popover.popover.topLeft,
+.iconpicker-popover.popover.topRight,
+.iconpicker-popover.popover.topRightCorner {
+  margin-top: -10px;
+}
+.iconpicker-popover.popover.right,
+.iconpicker-popover.popover.rightTop,
+.iconpicker-popover.popover.rightBottom {
+  margin-left: 10px;
+}
+.iconpicker-popover.popover.bottom,
+.iconpicker-popover.popover.bottomRightCorner,
+.iconpicker-popover.popover.bottomRight,
+.iconpicker-popover.popover.bottomLeft,
+.iconpicker-popover.popover.bottomLeftCorner {
+  margin-top: 10px;
+}
+.iconpicker-popover.popover.left,
+.iconpicker-popover.popover.leftBottom,
+.iconpicker-popover.popover.leftTop {
+  margin-left: -10px;
+}
+.iconpicker-popover.popover.inline {
+  margin: 0 0 12px 0;
+  position: relative;
+  display: inline-block;
+  opacity: 1;
+  top: auto;
+  left: auto;
+  bottom: auto;
+  right: auto;
+  max-width: 100%;
+  box-shadow: none;
+  z-index: auto;
+  vertical-align: top;
+}
+.iconpicker-popover.popover.inline > .arrow {
+  display: none;
+}
+.dropdown-menu .iconpicker-popover.inline {
+  margin: 0;
+  border: none;
+}
+.dropdown-menu.iconpicker-container {
+  padding: 0;
+}
+.iconpicker-popover.popover .popover-title {
+  padding: 12px;
+  font-size: 13px;
+  line-height: 15px;
+  border-bottom: 1px solid #ebebeb;
+  background-color: #f7f7f7;
+}
+.iconpicker-popover.popover .popover-title input[type=search].iconpicker-search {
+  margin: 0 0 2px 0;
+}
+.iconpicker-popover.popover .popover-title-text ~ input[type=search].iconpicker-search {
+  margin-top: 12px;
+}
+.iconpicker-popover.popover .popover-content {
+  padding: 0px;
+  text-align: center;
+}
+.iconpicker-popover .popover-footer {
+  float: none;
+  clear: both;
+  padding: 12px;
+  text-align: right;
+  margin: 0;
+  border-top: 1px solid #ebebeb;
+  background-color: #f7f7f7;
+}
+.iconpicker-popover .popover-footer:before,
+.iconpicker-popover .popover-footer:after {
+  content: " ";
+  display: table;
+}
+.iconpicker-popover .popover-footer:after {
+  clear: both;
+}
+.iconpicker-popover .popover-footer .iconpicker-btn {
+  margin-left: 10px;
+}
+.iconpicker-popover .popover-footer input[type=search].iconpicker-search {
+  /*width:auto;
+    float:left;*/
+  margin-bottom: 12px;
+}
+.iconpicker-popover.popover > .arrow,
+.iconpicker-popover.popover > .arrow:after {
+  position: absolute;
+  display: block;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+}
+.iconpicker-popover.popover > .arrow {
+  border-width: 11px;
+}
+.iconpicker-popover.popover > .arrow:after {
+  border-width: 10px;
+  content: "";
+}
+.iconpicker-popover.popover.top > .arrow,
+.iconpicker-popover.popover.topLeft > .arrow,
+.iconpicker-popover.popover.topRight > .arrow {
+  left: 50%;
+  margin-left: -11px;
+  border-bottom-width: 0;
+  border-top-color: #999999;
+  border-top-color: rgba(0, 0, 0, 0.25);
+  bottom: -11px;
+}
+.iconpicker-popover.popover.top > .arrow:after,
+.iconpicker-popover.popover.topLeft > .arrow:after,
+.iconpicker-popover.popover.topRight > .arrow:after {
+  content: " ";
+  bottom: 1px;
+  margin-left: -10px;
+  border-bottom-width: 0;
+  border-top-color: #ffffff;
+}
+.iconpicker-popover.popover.topLeft > .arrow {
+  left: 8px;
+  margin-left: 0;
+}
+.iconpicker-popover.popover.topRight > .arrow {
+  left: auto;
+  right: 8px;
+  margin-left: 0;
+}
+.iconpicker-popover.popover.right > .arrow,
+.iconpicker-popover.popover.rightTop > .arrow,
+.iconpicker-popover.popover.rightBottom > .arrow {
+  top: 50%;
+  left: -11px;
+  margin-top: -11px;
+  border-left-width: 0;
+  border-right-color: #999999;
+  border-right-color: rgba(0, 0, 0, 0.25);
+}
+.iconpicker-popover.popover.right > .arrow:after,
+.iconpicker-popover.popover.rightTop > .arrow:after,
+.iconpicker-popover.popover.rightBottom > .arrow:after {
+  content: " ";
+  left: 1px;
+  bottom: -10px;
+  border-left-width: 0;
+  border-right-color: #ffffff;
+}
+.iconpicker-popover.popover.rightTop > .arrow {
+  top: auto;
+  bottom: 8px;
+  margin-top: 0;
+}
+.iconpicker-popover.popover.rightBottom > .arrow {
+  top: 8px;
+  margin-top: 0;
+}
+.iconpicker-popover.popover.bottom > .arrow,
+.iconpicker-popover.popover.bottomRight > .arrow,
+.iconpicker-popover.popover.bottomLeft > .arrow {
+  left: 50%;
+  margin-left: -11px;
+  border-top-width: 0;
+  border-bottom-color: #999999;
+  border-bottom-color: rgba(0, 0, 0, 0.25);
+  top: -11px;
+}
+.iconpicker-popover.popover.bottom > .arrow:after,
+.iconpicker-popover.popover.bottomRight > .arrow:after,
+.iconpicker-popover.popover.bottomLeft > .arrow:after {
+  content: " ";
+  top: 1px;
+  margin-left: -10px;
+  border-top-width: 0;
+  border-bottom-color: #ffffff;
+}
+.iconpicker-popover.popover.bottomLeft > .arrow {
+  left: 8px;
+  margin-left: 0;
+}
+.iconpicker-popover.popover.bottomRight > .arrow {
+  left: auto;
+  right: 8px;
+  margin-left: 0;
+}
+.iconpicker-popover.popover.left > .arrow,
+.iconpicker-popover.popover.leftBottom > .arrow,
+.iconpicker-popover.popover.leftTop > .arrow {
+  top: 50%;
+  right: -11px;
+  margin-top: -11px;
+  border-right-width: 0;
+  border-left-color: #999999;
+  border-left-color: rgba(0, 0, 0, 0.25);
+}
+.iconpicker-popover.popover.left > .arrow:after,
+.iconpicker-popover.popover.leftBottom > .arrow:after,
+.iconpicker-popover.popover.leftTop > .arrow:after {
+  content: " ";
+  right: 1px;
+  border-right-width: 0;
+  border-left-color: #ffffff;
+  bottom: -10px;
+}
+.iconpicker-popover.popover.leftBottom > .arrow {
+  top: 8px;
+  margin-top: 0;
+}
+.iconpicker-popover.popover.leftTop > .arrow {
+  top: auto;
+  bottom: 8px;
+  margin-top: 0;
+}
+.iconpicker {
+  position: relative;
+  text-align: left;
+  text-shadow: none;
+  line-height: 0;
+  display: block;
+  margin: 0;
+  overflow: hidden;
+}
+.iconpicker * {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  position: relative;
+}
+.iconpicker:before,
+.iconpicker:after {
+  content: " ";
+  display: table;
+}
+.iconpicker:after {
+  clear: both;
+}
+.iconpicker .iconpicker-items {
+  position: relative;
+  clear: both;
+  float: none;
+  padding: 12px 0 0 12px;
+  background: #fff;
+  margin: 0;
+  overflow: hidden;
+  overflow-y: auto;
+  min-height: 49px;
+  max-height: 246px;
+}
+.iconpicker .iconpicker-items:before,
+.iconpicker .iconpicker-items:after {
+  content: " ";
+  display: table;
+}
+.iconpicker .iconpicker-items:after {
+  clear: both;
+}
+.iconpicker .iconpicker-item {
+  float: left;
+  width: 14px;
+  height: 14px;
+  padding: 12px;
+  margin: 0 12px 12px 0;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 14px;
+  box-shadow: 0 0 0 1px #dddddd;
+  color: inherit;
+  /*&:nth-child(4n+4) {
+        margin-right: 0;
+    }
+    &:nth-last-child(-n+4) {
+        margin-bottom: 0;
+    }*/
+}
+.iconpicker .iconpicker-item:hover:not(.iconpicker-selected) {
+  background-color: #eeeeee;
+}
+.iconpicker .iconpicker-item.iconpicker-selected {
+  box-shadow: none;
+  color: #fff;
+  background: #000;
+}
+.iconpicker-component {
+  cursor: pointer;
+}
+.iconpicker-container{
+    position: relative;
+    width: calc(100% - 32px);
+}
+.iconpicker-item{
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    color: #a4a4a4;
+    margin: 5px;
+    text-align: center;
+    float: left;
+}
+
+.iconpicker-items_wrapper{
+    position: fixed;
+    top: 30%;
+    right: 50%;
+    margin-right: -150px;
+    width: 300px;
+    height: 300px;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.2);
+    overflow-y: scroll;
+    z-index:99;
+    display: none;
+}
+
+#icon_look_for{
+    width: 250px;
+    margin-bottom: 20px;
+    padding: 8px;
+    margin-left: 10px;
+
+}
+
+.iconpicker-items_wrapper_close{
+    position:absolute;
+    top:0px;
+    right:0px;
+    width: 20px;
+    height: 20px;
+    background-color: #666;
+    color:#fff;
+    cursor: pointer;
+    text-align: center;
+}
+
+
+.input-group{
+    position: relative;
+}
+
+.input-group-addon {
+    cursor: pointer;
+    padding: 0px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    top: 15px;
+    right: 0px;
+    line-height: 34px;
+}
+
+.input-group-addon.searchf {
+    top: 1px;
+    right: -26px;
+}
+
+#wpestate_wrapper_admin_menu #setting-error-tgmpa {
+    display: none;
+}
+
+#all-front-calendars_per_hour_internal{
+    max-width: 900px;
+}
+
+
+.wp-block-legacy-widget__edit-preview {
+    cursor: pointer;
+    background: #f0f0f0;
+    padding: 8px 12px;
+}
+.wp-block-legacy-widget__edit-form{
+    display: block;
+}
+
+.wpestate_admin_theme_back_wrapper{
+   display: flex;
+    position: relative;
+    flex-direction: row;
+    min-height: 300px;
+    padding-top: 30px;
+    background: #fff;
+
+}
+
+
+
+@media only screen and (max-width: 1024px){
+    .post-type-estate_property td {
+        width: 50%;
+        float: left;
+    }
+    #estate_property-googlemap input[type=text],
+    #estate_property-custom input[type=text],
+    #estate_property-propdetails input[type=text],
+    #estate_property-sectionid input[type=text],
+    #estate_property-sectionid select,
+    #estate_property-custom select,
+    .post-type-estate_property select#embed_video_type,
+    .post-type-estate_property select#property_agent,
+    .post-type-estate_property select#sidebar_option,
+    .post-type-estate_property select#sidebar_select,
+    .post-type-estate_property select#checkin_change_over,
+    .post-type-estate_property select#checkin_checkout_change_over,
+    .post-type-estate_property select#city_fee_per_day,
+    .post-type-estate_property select#cleaning_fee_per_day,
+    .post-type-estate_property select#page_custom_zoom {
+        width: calc(100% - 10px);
+        height: 36px;
+        line-height: 36px;
+        border-radius: 2px;
+        margin-right: 10px;
+        max-width: 100%!important;
+    }
+    .post-type-estate_property #estate_property-custom .metacustom{
+        float: left;
+        width: 50%;
+    }
+    #estate_property-googlemap textarea,
+    #estate_property-custom textarea,
+    #estate_property-propdetails textarea,
+    #estate_property-sectionid textarea {
+        width: calc(100% - 10px);
+    }
+    #estate_property-sectionid .algolia-places {
+        width: calc(100% - 10px);
+    }
+}
+
+
+
+@media only screen and (max-width: 500px){
+    .post-type-estate_property td {
+        width: 100%;
+        float: left;
+    }
+    #estate_property-googlemap input[type=text],
+    #estate_property-custom input[type=text],
+    #estate_property-propdetails input[type=text],
+    #estate_property-sectionid input[type=text],
+    #estate_property-sectionid select,
+    #estate_property-custom select,
+    .post-type-estate_property select#embed_video_type,
+    .post-type-estate_property select#property_agent,
+    .post-type-estate_property select#sidebar_option,
+    .post-type-estate_property select#sidebar_select,
+    .post-type-estate_property select#checkin_change_over,
+    .post-type-estate_property select#checkin_checkout_change_over,
+    .post-type-estate_property select#city_fee_per_day,
+    .post-type-estate_property select#cleaning_fee_per_day,
+    .post-type-estate_property select#page_custom_zoom {
+        width: 100%;
+        height: 36px;
+        line-height: 36px;
+        border-radius: 2px;
+        margin-right: 10px;
+        max-width: 100%!important;
+    }
+    .post-type-estate_property #estate_property-custom .metacustom{
+        float: left;
+        width: 100%;
+    }
+    #estate_property-googlemap textarea,
+    #estate_property-custom textarea,
+    #estate_property-propdetails textarea,
+    #estate_property-sectionid textarea {
+        width: 100%;
+    }
+    #estate_property-sectionid .algolia-places {
+        width: 100%;
+    }
+}
+
+
+.wp_estate_booking_notice{
+    color:#fff;
+    background: #dc3232!important;
+}
+
+.property_options_wrapper {
+    overflow: auto;
+}
+
+.property_options_wrapper_list {
+    float: left;
+    width: 220px;
+    height: 100%;
+}
+.property_tab_item.active_tab {
+    color: #3a4659;
+    background: #fdfdfd;
+}
+.property_tab_item.active_tab {
+    display: block;
+}
+.property_tab_item {
+    width: 200px;
+    background: #3C90BE;
+    color: #fff;
+    padding: 10px;
+    border-bottom: 1px solid #79b1d0;
+    cursor: pointer;
+}
+.property_options_content_wrapper {
+    padding-left: 230px;
+}
+
+#new_tabbed_interface .inside {
+    margin: 0px;
+    padding: 0px 0px 30px 0px;
+    background: #fdfdfd;
+}
+
+input[type=checkbox] {
+    margin-top: 1px;
+}
+
+.property_tab_item_content {
+    display: none;
+    background: #fdfdfd;
+    padding: 13px;
+}
+
+.property_tab_item_content.active_tab {
+    display: block;
+}
+
+.property_prop_half {
+    width: 50%;
+    float: left;
+    min-height: 60px;
+}
+
+textarea#virtual_tour {
+    width: 100%;
+}
+
+.property_prop_full {
+    width: 100%;
+    float: left;
+    margin-bottom: 10px;
+    min-height: 60px;
+}
+
+.property_prop_full input[type=text],
+.property_prop_full textarea{
+    width:96%;
+}
+
+#property_custom_video_button, #button_new_image {
+    height: 40px;
+    padding: 0px 0px!important;
+    float: left;
+    margin-bottom: 20px;
+        clear: both;
+}
+
+.attach_edit {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #a51e6c;
+    color: #fff;
+    font-size: 20px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.attach_delete {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background-color: #a51e6c;
+    color: #fff;
+    font-size: 20px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+
+#wprentals_admin-wp_estate_url_rewrites .label_option_row {
+    margin: 15px 0px;
+    line-height: 30px;
+}
+
+#wprentals_admin-wp_estate_url_rewrites input {
+    line-height: 30px;
+    height: 30px;
+    vertical-align: baseline;
+}
+
+.ui-checkboxradio-icon.ui-corner-all.ui-icon.ui-icon-background.ui-icon-blank{
+  display: none;
+}
+
+.redux-container-sorter ul{
+    width: 200px;
+}
+ 
+.type-wpestate_booking span.view{
+    display: none;
+}

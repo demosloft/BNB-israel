@@ -1,0 +1,2139 @@
+.wprentals_dashboard_page{
+font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: #383f5b;
+}
+
+
+.wprentals_dashboard_page .content_wrapper_dashboard{
+    background-color: #fafafc;
+}
+
+.content_wrapper_dashboard{
+    width:100%;
+}
+
+.dashboard-margin{
+    padding-left: 0px;
+    padding-top: 0px;
+    margin-right: 10px;
+    margin-left: 305px;
+    min-height: 1100px;
+}
+
+
+.wprentals_dashboard_container{
+    max-width: 1300px;
+}
+.leaflet-control-container{
+    display: block;
+}
+
+.user_dashboard_panel .form-control{
+  margin-bottom: 30px;
+  background-color: #FAFAFC;
+  border: 1px solid #f6f4ff;
+  color: #8A8F9A;
+  border-radius: 5px;
+  transition: all 0.1s linear;
+}
+
+.user_dashboard_panel .form-control:focus{
+  border: 1px solid #eceaf4;
+  border-left: 3px solid #806AE6;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+.user_dashboard_panel input[type='checkbox']:focus{
+    border-left:  1px solid #f6f4ff;;
+  }
+
+ #children_as_guests{
+    margin-bottom: 0px;
+
+  }
+  
+.user_dashboard_panel select{
+  width: 100%;
+  padding: 8px 9px;
+  margin-bottom: 20px;
+  height: 50px;
+  font-size: 14px;
+  background-color: #FAFAFC;
+  border: 1px solid #f6f4ff;
+  border-radius: 5px;
+  transition: all 0.1s linear;
+  color: #8A8F9A;
+}
+
+.user_dashboard_panel_title{
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0;
+    padding: 15px 0px 0px 15px;
+    margin-bottom: 15px;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    float: left;
+    color: #333;
+    margin-top: 15px;
+}
+
+.wpestate_dashboard_no_listings{
+    padding: 15px 0px 10px 15px;
+}
+
+.widget_summary .user_dashboard_panel_title{
+    padding-left: 0px;
+}
+.account_history_widget{
+    padding-left: 0px;
+}
+
+.user_dashboard_panel_title_widget{
+    margin-top: 0px;
+}
+
+.wprentals_dashboard_page label{
+    color: #878F9D;
+}
+
+
+.page-template-user_dashboard_allinone .row.admin-list-wrapper.inbox-wrapper {
+    margin-left: 0px;
+}
+
+.dashboard-header{
+  margin: 0px 30px;
+  margin-bottom: 30px;
+  padding: 15px 0px;
+  min-height: 122px;
+}
+
+.dashboard-header h1{
+  font-size: 40px;
+  letter-spacing: -0.5px;
+}
+
+.back_to_home{
+    position: absolute;
+    right: 95px;
+    top: 57px;
+    color: #383f5b;
+    background-color: #fff;
+    box-shadow: 0px 3px 23px #E3E6EC;
+    padding: 0px 27px;
+    border-radius: 27px;
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 50px;
+}
+.wpestate_bell_note {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 57px;
+    right: 30px;
+    background-color: #fff;
+    box-shadow: 0px 3px 23px #E3E6EC;
+    border-radius: 50px;
+    line-height: 65px;
+    text-align: center;
+    transition: all 0.3s ease-out;
+}
+.wpestate_bell_note_unread {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    color: #fff;
+    background-color: #fb7266;
+    border-radius: 50%;
+    top: -8px;
+    right: 0px;
+    font-size: 12px;
+}
+
+
+.dashboard-margin-nolog {
+    margin: 0px auto;
+    float: none;
+    width: 1200px;
+}
+
+.container.boxedis_dashboard_page .header_wrapper_inside,
+.container.boxedis_dashboard_page {
+    width: 100%;
+}
+
+.content_wrapper_dashboard .entry-title {
+    margin: 15px 0px 0px 0px;
+    padding-top: 15px;
+    width: 83%;
+}
+
+.dashboard-header h1{
+    margin-top:25px!important;
+}
+
+.dashboard-margin-nolog  .new-dashtile{
+    margin-left:15px!important;
+}
+
+.content_wrapper_dashboard  .new-dashtile{
+    margin-left:30px;
+}
+
+.content_wrapper_dashboard .listings-title-dash{
+    margin-bottom: 5px;
+}
+
+
+.user_dashboard_panel{
+    padding: 15px;
+    display: inline-block;
+    margin: 0px 30px;
+    max-width: 1300px;
+    background: #fff;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    float:left;
+    min-width: 85%;
+}
+
+.dashboad_widgets_wrapper.user_dashboard_panel{
+  width: 100%;
+  margin: 15px 0px 15px 0px;
+}
+
+.profile_upload_image_wrapper{
+  margin-left: -30px;
+}
+
+.profile_upload_image.user_dashboard_panel{
+  width: 100%;
+  margin: 0px;
+}
+
+.user_dashboard_panel.pack_unit_list{
+  width: 100%;
+  margin: 0px 0px 30px 0px;
+}
+.user_dashboard_panel.inbox-wrapper ,
+.user_dashboard_panel.dashboard_property_list{
+  max-width: 100%;
+  width: auto;
+  display: block;
+
+}
+
+.favorite_dashboard_property_list{
+  padding-top: 45px;
+}
+
+
+.page-template-user_dashboard_edit_listing .dashboard_amenities label {
+  width: calc(100% - 22px);
+  cursor: pointer;
+}
+
+.pagination > li:first-child > a, 
+.pagination > li:first-child > span,
+.pagination > .active > a, .pagination > .active > span,
+.pagination > .active > a:hover, .pagination > .active > span:hover,
+.pagination > .active > a:focus, .pagination > .active > span:focus
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+  border-radius: 3px;
+}
+
+
+
+/*= buttons*/
+
+#aaiu-uploader{
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    text-align: center;
+    cursor:pointer;
+    margin-bottom: 0px;
+}
+
+#user-id-uploader {
+    margin-top: 15px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+#validate_phoneno{
+    margin: 15px 0px;
+}
+
+#validate_phone,
+#send_sms_pin,
+.mess_send_reply_button,
+#view_profile,
+.mess_send_reply_button,
+ #change_pass,
+ #update_profile,
+ #book_dates,
+ #aaiu-uploader,
+ #set_price_dates,
+ #book_dates,
+ #edit_prop_ammenities,
+ #edit_prop_locations,
+ #google_capture,
+ #edit_prop_details,
+ #edit_prop_image,
+ #edit_prop_price,
+ #edit_prop_1,
+ #edit_calendar,
+ #form_submit_1,
+ #delete_profile,
+ #user-id-uploader{
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    cursor: pointer;
+}
+
+#validate_phone,
+#send_sms_pin,
+.mess_send_reply_button,
+#view_profile,
+.mess_send_reply_button,
+ #change_pass,
+ #update_profile,
+ #book_dates,
+ #aaiu-uploader,
+ #set_price_dates,
+ #book_dates,
+ #edit_prop_ammenities,
+ #edit_prop_locations,
+ #google_capture,
+ #edit_prop_details,
+ #edit_prop_image,
+ #edit_prop_price,
+ #edit_prop_1,
+ #edit_calendar,
+ #form_submit_1,
+ #submit_mess_front,
+ #delete_profile,
+ #user-id-uploader{
+    background-color: #806AE6;
+}
+
+#edit_calendar:hover,
+#google_capture:hover,
+.contact_owner_reservation:hover,
+.full_invoice_reminder:hover,
+#view_profile:hover,
+#validate_phone:hover,
+#send_sms_pin:hover,
+.search_dashborad_header .wpb_btn-info.wpb_btn-small.wpestate_vc_button.vc_button:hover,
+.mess_send_reply_button:hover,
+#change_pass:hover,
+#update_profile:hover,
+#book_dates:hover,
+#aaiu-uploader:hover,
+#set_price_dates:hover,
+#book_dates:hover,
+#edit_prop_ammenities:hover,
+#edit_prop_locations:hover,
+#edit_prop_details:hover,
+#edit_prop_image:hover,
+#edit_prop_price:hover,
+#edit_prop_1:hover,
+#form_submit_1:hover,
+#submit_mess_front:hover,
+#wp-login-but_sh,
+#user-id-uploader:hover{
+    background-color: #725ECC;
+}
+
+
+ #submit_mess_front{
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+
+.contact_owner_reservation,
+.proceed-payment_full,
+#post_review,
+.tag-published,
+.tag-post-review,
+.proceed-payment{
+    cursor:pointer;
+}
+
+.delete_imported_dates_singular{
+    cursor:pointer;
+}
+
+.delete_extra_detail,
+#add_extra_detail,
+.delete_extra_option,
+#add_extra_feed,
+#add_extra_option{
+  cursor: pointer;
+  margin-bottom: 15px;
+  color: #fff;
+  padding: 0px 10px;
+  text-decoration: none;
+  display: inline-block;
+  width: 24%;
+  font-weight: 600;
+  text-align: center;
+  border-radius: 5px;
+  line-height: 50px;
+}
+.trip_details,
+.proceed-payment_full,
+.waiting_payment,
+.full_invoice_reminder,
+.you_already_review,
+.post_review_later,
+.confirmed_booking,
+.contact_owner_reservation,
+.proceed-payment_full,
+#post_review,
+.proceed-payment,
+.tag-post-review,
+.action1_booking,
+.generate_invoice {
+    cursor: pointer;
+    margin-top: 0px;
+    padding: 14px 15px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.trip_details,
+.woo_pay_submit,
+.activate_payments,
+.delete_extra_detail,
+#add_extra_detail,
+.delete_extra_option,
+#add_extra_feed,
+#add_extra_option,
+.proceed-payment_full,
+.waiting_payment,
+.full_invoice_reminder,
+.you_already_review,
+.post_review_later,
+.confirmed_booking,
+.contact_owner_reservation,
+.proceed-payment_full,
+#post_review,
+.proceed-payment,
+.tag-post-review,
+.action1_booking,
+.generate_invoice {
+    background: #51AF6B;
+}
+
+.activate_payments{
+    font-size: 13px;
+    cursor: pointer;
+    margin: 6px 6px 0px 6px;
+    float: left;
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-weight: 500;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+}
+
+
+.trip_details:hover,
+.woo_pay_submit:hover,
+.activate_payments:hover,
+#add_extra_detail:hover,
+.delete_extra_option:hover,
+#add_extra_feed:hover,
+#add_extra_option:hover,
+.proceed-payment_full:hover,
+.generate_invoice:hover,
+.confirmed_booking:hover,
+.contact_owner_reservation:hover,
+#print_invoice:hover,
+#post_review:hover,
+.tag-post-review:hover,
+.proceed-payment:hover{
+    background-color: #45965C;
+}
+
+.delete_extra_detail,
+#add_extra_detail{
+    width: 100%!important;
+}
+
+.delete_extra_detail{
+    background: #fd2d4f;
+}
+
+.delete_extra_detail:hover{
+    background-color: #E32948;
+}
+
+.contact_owner_reservation,
+.full_invoice_reminder{
+  background-color: #806ae6;
+}
+
+.action1_booking:hover{
+    background-color: #c18eff;
+}
+
+
+
+
+  #update_profile,
+  #delete_profile{
+      margin-left: 15px;
+      color:#fff;
+      max-width: 200px;
+  }
+
+  #view_profile {
+    margin-left: 15px;
+  }
+
+  #about_me {
+      width: 100%;
+      float: left
+  }
+
+  #change_pass{
+      margin-left: 15px;
+      max-width: 200px;
+      color:#fff;
+  }
+
+  #profile_pass{
+      margin: -10px 0 10px 0;
+      float: left;
+      width: 100%;
+      font-size: 13px;
+  }
+
+.booking_canceled_by_owner,
+.cancel_user_booking,
+.cancel_own_booking,
+.delete_invoice,
+.delete_booking{
+  cursor: pointer;
+  margin-top: 0px;
+  padding: 14px 15px;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 5px;
+}
+
+#delete_profile,
+.booking_canceled_by_owner,
+.cancel_user_booking,
+.cancel_own_booking,
+.delete_invoice,
+.delete_booking{
+    background: #fb7266;
+}
+
+#direct_pay:hover,
+.booking_canceled_by_owner:hover,
+.cancel_user_booking:hover,
+.cancel_own_booking:hover,
+.delete_invoice:hover,
+.delete_booking:hover,
+#delete_profile:hover{
+    background-color: #E0675C;
+}
+
+.booking_canceled_by_owner{
+    cursor:default;
+}
+
+.user_dashboard_panel .login-alert{
+    border-radius: 5px;
+}
+
+#user-id-uploader{
+  margin-bottom: 0px;
+}
+
+/*= sidebar menu*/
+
+
+.user_tab_menu{
+  margin-top: 0px;
+  background: #fff;
+  padding-top: 0px;
+  position: absolute;
+  width: 260px;
+  top: 30px;
+  left: 30px;
+  padding: 0px;
+  border-radius: 10px;
+}
+
+.user_dashboard_panel,
+.user_tab_menu{
+    box-shadow: 0px 0px 15px 15px rgb(165 169 174 / 0.04);
+  }
+
+
+.profile-image-wrapper{
+    width:100%;
+    padding-top: 28px;
+}
+
+#profile-image-menu{
+    border-radius: 50%;
+    margin: 0px auto;
+    width: 65px;
+    height: 65px;
+    border: 1px solid #f6f4ff;
+    background-size: cover;
+    background-position: 50% 50%;
+    box-shadow: 0px 3px 23px #E3E6EC;
+}
+
+.profile_wellcome{
+    font-size: 14px;
+    text-align: center;
+    margin-top: 12px;
+    font-weight: 700;
+    text-transform: capitalize;
+    color:#383f5b;
+}
+
+.pack_description{
+  float: left;
+  margin: 20px 10px 5px 10px;
+  border-radius: 5px;
+  background-color: #faf9fe;
+  display: inline-block;
+  width: 240px;
+}
+
+.pack-info,
+.pack-unit{
+    position: relative;
+    float: left;
+    width: 100%;
+    padding: 10px 20px 20px 20px;
+}
+
+.pack-wrapper {
+    float: left;
+    margin: 0px 30px;
+}
+.pack-name{
+  width: 100%;
+  text-align: center;
+  color: #383f5b;
+  font-weight: 800;
+  font-size: 14px;
+  padding: 20px 0px 0px 0px;
+  clear: both;
+}
+
+.pack-name span{
+    color: #8A8795;
+    font-size: 12px;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    font-weight: 500;
+}
+
+
+
+
+.pack_unit_list .user_dashboard_panel_title{
+    margin-top:0px;
+    white-space:normal;
+}
+
+.user_dashboard_links{
+  float: left;
+  margin: 15px 0px;
+  padding: 0px 0px;
+}
+
+.user_dashboard_links .user_tab_active{
+  text-decoration: none;
+  color: #806AE6;
+  background-color: #faf9fe;
+  position: relative;
+  font-weight: 600;
+
+}
+
+
+.user_tab_menu a,
+.user_dashboard_links a {
+    color: #8A8795;
+    width: calc(100% - 20px);
+    padding: 12px 0px 12px 20px;
+    margin: 0 10px;
+    font-size: 13px;
+    font-weight: normal;
+    position: relative;
+    display: inline-block;
+    margin-bottom: 2px;
+    border-radius: 5px;
+  }
+
+  .user_dashboard_links .user_tab_active i{
+    z-index: 99;
+    position: relative;
+  }
+
+  .user_dashboard_links a:hover{
+    color: #806AE6;
+    background-color: #faf9fe;
+    position: relative;
+    font-weight: 600;
+  }
+
+  .user_dashboard_links a:hover i{
+      color:#806AE6;
+  }
+
+  .property_edit_menu  a {
+      padding-left: 55px!important;
+  }
+
+
+  .normal_list_no{
+      width: 50%;
+      height:25px;
+      color: #8A8795;
+      float: left;
+      text-align: left;
+      padding: 2px 0px;
+      font-size: 22px;
+      font-weight: 700;
+      position:relative;
+      margin-bottom: 15px;
+      color: #383f5b;
+  }
+
+  .normal_list_no span{
+      font-size: 11px;
+        font-weight: normal;
+        padding: 0 5px;
+        line-height: 1.1em;
+        display: inline-block;
+        position: absolute;
+        word-break: break-word;
+        color: #8A8795;
+  }
+
+
+  .pack-date-wrapper{
+    color: #8A8795;
+    font-size: 11px;
+    text-align: center;
+    width: 100%;
+    margin-left: -10px;
+  }
+
+
+
+  /*= user profile*/
+
+  .user_profile_div{
+      padding-bottom: 50px;
+      float:left;
+  }
+  #payment_info,
+  .about_me_profile{
+      height: 142px!important;
+  }
+
+
+  #profile-div{
+      margin-top: 17px;
+      margin: 0px auto;
+      padding: 15px;
+  }
+
+  #profile-div img{
+    border-radius: 5px;
+    margin-bottom: 15px;
+      max-width: 100%;
+  }
+
+  #user-id-image{
+      border-radius: 5px;
+      max-width: 100%;
+  }
+
+  #user-id{
+    margin: 0px auto;
+    margin-top: 30px;
+      padding: 15px;
+  }
+
+
+
+
+/*= property list*/
+.user_dashboard_listed a{
+    color:#806AE6;
+}
+
+.user_dashboard_listed{
+    padding-left: 20px;
+    margin-bottom: 5px;
+    line-height: 1.3em;
+    font-size: 13px;
+    display: block;
+    color: #8A8F9A;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.dasboard-prop-listing{
+    margin: 5px 0px;
+      padding: 15px 0px;
+      border-radius: 5px;
+}
+
+.dasboard-prop-listing:nth-child(even){
+    background-color: rgb(246 249 253 / 0.8);
+}
+
+
+.property_dashboard_status .label{
+    margin: 0px;
+    border-radius: 3px;
+    padding: 5px 10px;
+}
+
+.property_dashboard_reviews i{
+  color: #ffc662;
+}
+
+.property_dashboard_reviews .rating_placeholder{
+  margin: 0px;
+}
+
+.blog_listing_image {
+    float: left;
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+
+
+.property_dashboard_reviews,
+.property_dashboard_price .price_label,
+.property_dashboard_price,
+.property_dashboard_status,
+.property_dashboard_types {
+    font-size: 13px;
+    color: #383f5b;
+    display: flex;
+    height: 86px;
+    white-space: pre-wrap;
+    line-height: 1.3em;
+    align-content: space-evenly;
+    flex-wrap: wrap;
+      margin-top: 0px;
+}
+
+.property_dashboard_actions.payment_sys_perlisting .info-container {
+    margin-top: 10px;
+}
+
+.property_dashboard_status{
+  flex-direction: column;
+  justify-content: center;
+  font-weight: 600;
+}
+
+
+.property_dashboard_price{
+  font-weight: 600;
+}
+
+.property_dashboard_price:empty{
+    display: none;
+}
+
+
+.property_dashboard_actions .info-container{
+  margin-top: 29px;
+}
+
+.dashboad-tooltip {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  line-height: 30px;
+  text-align: center;
+  margin: 0px 0px;
+  border-radius: 3px;
+  color: #c3b4b4;
+  color: #8A8F9A;
+  padding: 0px;
+  display: inline-block;
+  font-size: 13px;
+}
+
+.dashboad-tooltip:hover{
+  background-color: #383f5b;
+  color: #ffffff;
+}
+.dashboard-margin .pagination{
+      margin: 15px 0px 30px 0px;
+}
+
+
+.info-container-payments{
+    margin-top: 0px;
+}
+
+.invoice_filters,
+.search_dashborad_header{
+  float: left;
+  width: 100%;
+  margin: 15px 0px 30px 0px;
+}
+
+.search_dashborad_header .wpb_btn-info.wpb_btn-small.wpestate_vc_button.vc_button {
+    padding: 13px 50px;
+    background-color: #806AE6;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
+.dashboad-prop-img {
+  border-radius: 5px;
+  box-shadow: 0px 3px 23px #E3E6EC;
+  width: 143px;
+}
+
+.col-md-5.blog_listing_image .dashboard_imagine{
+  width: 143px;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.property_dashboard_location_wrapper .listing_title{
+  margin-top: 10px;
+  font-size: 16px;
+}
+.property_dashboard_location_wrapper .user_dashboard_listed{
+  font-size: 14px;
+}
+
+.dasboard-prop-listing .blog_listing_image .featured_div {
+    padding: 3px 5px;
+    left: 5px;
+    top: 5px;
+    transform: none;
+    font-size: 11px;
+    background-color: rgb(128 106 230 / 0.85);
+    margin-left: 0px;
+}
+
+
+.wpestate_dashboard_table_list_header {
+  font-weight: 600;
+  font-size: 14px;
+  color: #383f5b;
+  line-height: 1.6em;
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 30px;
+  margin-left: 0px;
+  position: relative;
+}
+
+.wpestate_dashboard_table_list_header:after{
+  content: " ";
+  border-bottom: 1px solid #f6f4f4;
+  position: absolute;
+  bottom: -20px;
+  width: calc(100% - 30px);
+  margin: 0px 15px;
+}
+
+
+
+.wprentals_status{
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+
+.wprentals_status_circle{
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background-color: #7B9937;
+  display: inline-block;
+  margin-right: 7px;
+}
+
+.wprentals_status_paid,
+.wprentals_status_publish{
+  color:#7B9937
+}
+
+.wprentals_status_disabled{
+  color:#fb7266;
+}
+
+.wprentals_status_disabled .wprentals_status_circle{
+  background-color:#fb7266;
+}
+
+.wprentals_status_pending{
+color:#806AE6;
+}
+
+.wprentals_status_pending .wprentals_status_circle{
+  background-color:#806AE6;
+}
+
+.wprentals_status_not,
+.wprentals_status_expired{
+  color:#fb7266;
+}
+
+.wprentals_status_not .wprentals_status_circle,
+.wprentals_status_expired .wprentals_status_circle{
+  background-color:#fb7266;
+}
+
+/*= property list paid submission*/
+
+
+
+.listing_upgrade {
+    cursor:pointer;
+    margin: 10px 10px 10px 0px;
+}
+
+.listing_upgrade,
+.listing_submit_normal {
+    font-size: 13px;
+    cursor: pointer;
+    margin: 8px 8px 8px 0px;
+    float: left;
+    padding: 10px 9px;
+    border-radius: 3px;
+    font-weight: 700;
+    background-color: #003087;
+    width: 100%;
+}
+
+#pick_pack:hover,
+.listing_upgrade:hover,
+.listing_submit_normal:hover{
+    background-color: #00266E;
+}
+
+#wpestate_stripe_booking_recurring:hover,
+.wpestate_stripe_booking_prop:hover{
+    background-color: #007CC4;
+}
+
+#send_direct_bill_booking:hover,
+#send_direct_bill:hover,
+.perpack:hover{
+    background-color: #96952F;
+}
+
+.listing_submit_spacer {
+    margin-bottom: 10px;
+}
+
+.info-container-payments .stripe_upgrade,
+.info-container-payments .listing_upgrade,
+.info-container-payments .listing_submit_normal,
+.info-container-payments .perpack,
+.info-container-payments .wpestate_stripe_booking_prop{
+  width: 100%;
+  text-align: center;
+  margin:5px 0px;
+}
+
+.info-container-payments .woo_pay_submit{
+  margin: 10px 0px 00px 0px;
+}
+
+.listing_submit{
+    position: fixed;
+      font-size: 16px;
+      line-height: 23px;
+      width: 300px;
+      padding-top: 20px;
+      display: none;
+      font-size: 16px;
+      font-weight: 600;
+      color: #484848;
+      box-shadow: 0px 3px 51px #d9d9d9;
+      top: 40%;
+      background-color: #fff;
+      left: 50%;
+      margin-left: -150px;
+      padding: 30px;
+      border-radius: 5px;
+      z-index: 99;
+}
+
+/*= submit templates*/
+
+
+.page-template-user_dashboard_edit_listing label[for=children_as_guests]{
+    width: 90%;
+}
+
+.new-listing-alert,
+.submit_error {
+    border-radius: 5px;
+}
+
+.new-listing-alert{
+    margin-left: 30px;
+}
+
+.submit_error {
+    background: #fb7266;
+}
+
+.add_option_wrapper {
+    background: #d0d5de;
+    padding: 15px 10px 0px 10px;
+    border-radius: 5px;
+}
+
+
+.add_option_input{
+    width:250px;
+    margin-right: 15px;
+    display: inline-block;
+}
+
+.add_option_wrapper .add_option_input,
+.extra_pay_option .add_option_input{
+    width: 25%;
+    margin-right: 2%;
+    display: inline-block;
+    margin-bottom: 0px!important
+}
+
+.extra_pay_option .select_submit_price,
+.extra_pay_option .select_submit_price {
+    max-width: 30%;
+    margin-right: 2%;
+}
+
+.add_option_input.extra_option_value {
+    width: 15%;
+}
+
+.add_option_wrapper #add_option_type {
+    max-width: 30%;
+    margin-right: 2%;
+}
+
+
+.add_custom_detail {
+    background: #d0d5de;
+    padding: 10px 10px 5px 0px;
+    float: left;
+    margin-left: 15px;
+    border-radius: 5px;
+}
+
+.add_custom_detail .col-md-4 {
+    padding-right: 0px;
+    padding-left: 10px;
+}
+.add_custom_detail .col-md-4 input {
+    margin-bottom: 0px;
+}
+
+
+
+.extra_details_label {
+    width: 100%;
+    padding-left: 15px;
+}
+
+.extra_details_list{
+    width: 100%;
+    float: left;
+    padding: 10px;
+}
+
+
+.price_notification{
+  padding: 0px 30px 15px 30px;
+  background: #65c2de;
+  padding: 10px;
+  font-size: 13px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+  width: calc(100% - 60px);
+  border-radius: 5px;
+  color: #fff;
+}
+
+.wprentals_pay_by_guest_no{
+    margin-bottom: 10px;
+}
+
+.image_max_warn{
+    padding: 10px;
+    font-size: 13px;
+    background-color: #fb7266;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+
+/*= all in one*/
+
+@media only screen and (min-width: 1537px){
+.booking-calendar-wrapper-allinone .calendar_pad_title, 
+.calendar_pad, .booking-calendar-wrapper-allinone .dayname {
+    width: 38px;
+}
+}
+
+.wprentals_allinone_wrapper{
+  padding: 15px;
+}
+
+.booking-calendar-wrapper-allinone{
+    background-color: #d0d5de;
+    height: 100%;
+    float: left;
+}
+
+.booking-calendar-wrapper-allinone .month-title{
+    background-color: #484848;
+    color: #CBCDD0;
+    padding: 13px 0px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.calendar_pad_title,
+.calendar_pad{
+    width: 28px;
+    height: 35px;
+    float: left;
+    text-align: center;
+    padding-top: 4px;
+    border: 1px solid #eee;
+}
+
+.calendar_pad_title{
+    height:75px;
+    padding-top: 0px;
+}
+
+.dayname{
+    width: 28px;
+    height: 35px;
+    background-color: #E0E4E9;
+    font-size: 12px;
+    color: #4D5567;
+    padding-top: 4px;
+    margin-bottom: 7px;
+}
+
+.calendar_tab_header{
+    display:inline;
+    float:left;
+    margin-bottom: 5px;
+}
+
+.property_tab_header{
+    width: 150px;
+    height: 80px;
+    float: left;
+    display: inline;
+}
+
+.property_tab_list_header{
+    width: 150px;
+    float: left;
+    background-color: #4D5567;
+    color: #CBCDD0;
+    height: 35px;
+    border-bottom: 1px solid #CBCDD0;
+    padding-left: 10px;
+    padding-top: 4px;
+}
+
+.property_tab_list_header a{
+    font-size:12px;
+    color: #CBCDD0;
+}
+.calendar-free.calendar_pad.has_future{
+    background-color: #fff;
+}
+
+.arrow-wrapper-allinone{
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+#calendar-prev-internal-allinone{
+    position:absolute;
+    left:0px;
+    top:10px;
+}
+
+#calendar-next-internal-allinone{
+    position:absolute;
+    right:0px;
+    top:10px;
+}
+
+.allinone_reservation{
+    display:none;
+}
+
+
+.calendar_pad.allinone_internal_booking  {
+    background-color:#45cd72!important
+}
+
+.calendar_pad .rentals_reservation:before{
+    bottom: -12px;
+    left: 0px;
+    content: " ";
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    border-width: 13px;
+    border-left: 13px solid transparent;
+    border-right: 13px solid transparent;
+    border-top: 13px solid #7648AF;
+}
+
+.calendar_pad .rentals_reservation,
+.calendar_pad.allinone_internal_booking .rentals_reservation {
+    position: absolute;
+    width: 213px;
+    top: -91px;
+    height: 80px;
+}
+
+.calendar_pad .rentals_reservation{
+    overflow: inherit;
+}
+
+.calendar_pad.allinone_internal_booking  .rentals_reservation:before{
+    border-top: 13px solid #45CD72;
+}
+
+.allinone-booking-data,
+.allinone-booking-data-invoice,
+.allinone-booking-data-guests{
+    float:left;
+}
+.allinone-booking-data-guests{
+    margin-right: 10px;
+}
+
+.calendar_pad_title.calendar-pad-hover,
+.calendar-free.calendar_pad.has_future.calendar-pad-hover,
+.calendar-reserved.calendar_pad.calendar-pad-hover,
+.calendar-pad-hover{
+    background-color: #D2DCED!important;
+}
+
+
+.arrow-wrapper-allinone_legend{
+    float:left;
+    width:100%;
+    margin-top:30px;
+}
+.allinone_legend{
+    float: left;
+    margin-right: 20px;
+    margin-left: 3px;
+    padding-top: 4px;
+}
+
+
+
+.booking-calendar-wrapper-allinone  .calendar_pad_title, .calendar_pad,
+.booking-calendar-wrapper-allinone .dayname {
+    width: 35px;
+}
+
+.page-template-user_dashboard_edit_listing label{
+    width:100%;
+}
+
+.bed_wrapper{
+    margin-bottom: 10px;
+    padding: 10px;
+    position:relative;
+}
+
+.user_dashboard_panel #whole_beds_wrapper{
+    margin-left: 0px;
+}
+
+.user_dashboard_panel .beds_wrapper_control{
+    top: 13px;
+}
+
+.user_dashboard_panel .bed_wrapper{
+    margin-bottom:0px;
+}
+
+#whole_beds_wrapper{
+    padding: 15px;
+    margin-left: 30px;
+    margin-bottom: 15px;
+}
+
+.bed_wrapper:nth-child(odd){
+     background-color: #fafafc;
+}
+
+.bed_wrapper:nth-child(odd) .beds_no.form-control{
+  background-color: #fff;
+}
+
+
+.bedroom_input_val label{
+    width:100px;
+}
+.beds_wrapper_control{
+    position: absolute;
+    top: 9px;
+    right: 15px;
+    font-size: 11px;
+    color: #fff;
+    background-color: #4ecb8f;
+    padding: 0px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.bedroom_input_val{
+    width: 100%;
+    padding-left: 20px;
+}
+.beds_no.form-control{
+    width: 50px;
+    display: inline-block;
+    margin-left: 10px;
+    padding: 8px!important;
+    line-height: 1.2em;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.beds_no.form-control:focus{
+      border-left: 1px solid #eceaf4;
+}
+
+#icalfeed_wrapper{
+    float:left;
+    background: #d0d5de;
+    padding: 10px;
+    width:100%;
+    margin-bottom: 20px;
+    max-width: 903px;
+}
+
+
+.form-control.property_icalendar_import_feed_new,
+.form-control.property_icalendar_import_name_new{
+    width:400px;
+    margin-bottom: 15px;
+}
+
+#add_extra_feed{
+    max-width: 200px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 45px;
+    font-size: 15px;
+}
+
+
+.extra_detail_option_wrapper{
+    width: 100%;
+    float: left;
+}
+
+.add_option_wrapper #add_extra_option {
+    width: 22%;
+    margin: 0px;
+}
+
+.add_option_wrapper #add_option_name{
+    width: 24%;
+}
+
+.add_option_wrapper #add_option_value {
+    width: 17%;
+}
+
+
+/*=invoice listing
+----------------------------------------------------------------------------*/
+
+.invoice_unit{
+    width: 100%;
+    float: left;
+    position: relative;
+    box-sizing: border-box;
+    padding: 15px 0px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 0px 0px 0px 0px;
+  }
+
+.invoice_unit:nth-child(even){
+    background: #fafafc;
+  }
+
+.invoice_unit:hover {
+    background-color: #f4f6f9;
+}
+
+.invoice_unit_title{
+    margin-bottom: 20px;
+    width: 100%;
+    float: left;
+    padding-left: 0px;
+}
+
+.invoices-wrapper{
+  max-width: 100%;
+  width: auto;
+  display: block;
+  float: none;
+}
+
+.invoices_explanation {
+    margin-bottom: 10px;
+    float: left;
+    padding: 0px 15px;
+}
+
+.invoice_filters{
+
+}
+
+.invoice_totals{
+    float: left;
+    padding: 0px;
+    margin-bottom: 30px;
+    padding: 0px 15px;
+}
+
+#invoice_confirmed{
+    margin-right:20px;
+}
+
+
+#container-invoices{
+    float: left;
+    width: 100%;
+}
+
+/*=message listing
+----------------------------------------------------------------------------*/
+
+.messages_wrapper .col-md-12{
+    float:left;
+}
+
+.message_listing{
+    width: 100%;
+    float: left;
+    margin: 10px 0px 10px 0px;
+    position: relative;
+    box-sizing: border-box;
+    border-radius: 2px;
+
+    font-size:14px;
+}
+.message_listing_wrapper{
+  border-radius: 5px;
+}
+.message_listing_wrapper:nth-child(even){
+  background: #fafafc;
+}
+
+.message_listing_wrapper:hover{
+    background: #f4f6f9;
+}
+.message_header{
+    padding: 0px 0px;
+    box-sizing: border-box;
+    margin: 0px 0px 0px 0px;
+    width:100%;
+    float: left;
+    cursor:pointer;
+
+}
+
+.message-action{
+  float: right;
+  width: 36px;
+  border-radius: 5px;
+}
+
+.delete_inaction{
+  padding: 4px 10px;
+  font-size: 13px;
+  float: left;
+}
+
+.message-action i{
+    color: #bdc4d2;
+    line-height: 35px;
+}
+
+.mess_unread{
+    color: #fd2d4f;
+    margin: 6px 10px 0px 0px;
+}
+
+.mess_date,
+.mess_subject,
+.mess_from{
+    line-height: 26px;
+    margin-top: 5px;
+    float: left;
+    width: 90%;
+}
+
+.mess_from{
+    cursor:pointer;
+}
+
+
+.mess_reply_form,
+.mess_content{
+    padding: 5px 15px;
+    background: #f4f6f9;
+    box-sizing: border-box;
+    margin: 0px 0px 0px 0px;
+    width: 100%;
+    float: left;
+    position: relative;
+    display: none;
+    border-top: 2px solid #f4f6f9;
+}
+
+
+
+.mess_reply_form{
+    margin-top: -10px;
+    padding-right: 70px;
+}
+
+.mess_content{
+    padding-top: 20px;
+}
+
+
+
+
+
+.mess_content-list-replies{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.mess_content-list-replies h4{
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.mess_content-list-replies_unit{
+    margin-bottom: 10px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+
+.mess_reply,
+.mess_delete,
+.mess_read_mess,
+.mess_send_reply{
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+      border-radius: 5px;
+}
+
+.mess_reply:hover,
+.mess_delete:hover,
+.mess_read_mess:hover,
+.mess_send_reply:hover {
+    background-color: #484848;
+}
+
+.mess_reply:hover i,
+.mess_delete:hover i,
+.mess_read_mess:hover i,
+.mess_send_reply:hover i{
+    color:#adb7d1;
+}
+
+
+
+
+.mess_read_mess{
+    padding: 3px 9px 0px 0px;
+}
+
+
+.mess_reply{
+   padding: 0px;   display:none;
+}
+
+.mess_unread,
+.mess_read{
+    float: left;
+}
+
+
+.mess_title{
+    width:100%;
+    float:left;
+    margin-bottom: 15px;
+}
+
+.message_content{
+    width:70%;
+    word-break: break-word;
+}
+
+
+
+.mess_send_reply_button{
+  padding: 13px 30px;
+  font-size: 14px;
+  width: auto;
+  margin-bottom: 10px;
+  float: left;
+}
+
+.message_listing .form-control {
+    margin-bottom: 10px;
+    background-color: #ffffff;
+}
+
+#subject_reply{
+    width:50%;
+}
+
+#message_reply_content{
+    width: 99%;
+    height:100px;
+}
+
+.stripe_buttons{
+    display:none;
+}
+
+.stripe_member{
+    margin-top: -3px;
+}
+
+.visible_stripe{
+    display:block;
+}
+
+#stripe_form_featured{
+    display:none;
+}
+
+#confirm_zero_instant_booking,
+#paypal_booking{
+    cursor: pointer;
+    float: left;
+    margin-top: 8px;
+}
+
+
+.guests_adv,
+.check_out_adv,
+.check_in_adv{
+    position: relative;
+    width: 121px!important;
+}
+
+.guests_adv ul{
+    width:130px;
+}
+
+
+
+/*=favorites*/
+.icon-fav-on-remove {
+    cursor: pointer;
+    font-size: 12px!important;
+    background-color: #806AE6;
+    padding: .4em .9em .4em;
+    font-weight: normal;
+    color: #fff!important;
+    text-align: center;
+    z-index: 999;
+    margin: 25px 0px;
+    float: left;
+    border-radius: 5px;
+}
+
+/*=bookings and reservations*/
+.page-template-user_dashboard_my_reservations .dasboard-prop-listing,
+.page-template-user_dashboard_my_bookings .dasboard-prop-listing{
+    margin: 7px 0px;
+}
+.booking_unit_status{
+    float: left;
+    position: relative;
+}
+
+
+.book_image img{
+  border-radius: 5px;
+  box-shadow: 0px 3px 23px #E3E6EC;
+  margin-bottom: 15px;
+  width: 288px;
+}
+
+.listing_title_book{
+    padding-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.my_bookings_image {
+    align-items: initial;
+}
+
+.info-container_booking {
+    float: left;
+    position: relative;
+    background-color: #f8fafd;
+    width: 100%;
+}
+
+.booking_form_stripe button{
+    float:left;
+    margin-right: 10px;
+    padding-top: 0px;
+}
+
+.pay_notice_booking{
+    float: left;
+    display: block;
+    width: 100%;
+    color: #3e4453;
+    font-weight: 700;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.tag-post-review{
+    cursor:pointer;
+}
+
+.waiting_payment_status_pending,
+.waiting_payment_user_status,
+.waiting_payment_status,
+.tag-published,
+.tag-paid{
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    color: #222;
+}
+
+
+.wprentals_status_circle.waiting_payment_status_pending,
+.wprentals_status_circle.waiting_payment_user,
+.wprentals_status_circle.waiting_payment{
+  background-color:#806AE6;
+}
+.waiting_payment_status_pending{
+  color: #806AE6;
+}
+
+.waiting_payment_status{
+  color:#ffc662;
+}
+
+.wprentals_status_circle.waiting_payment_user_status,
+.wprentals_status_circle.waiting_payment_status{
+  background-color: #ffc662;
+  color: #ffffff;
+}
+
+.booking_confirmed_full_paid,
+.booking_confirmed_not_full_paid{
+  color:#7B9937;
+}
+
+
+.book_listing_user_unit_balance .booking_details_title,
+.book_listing_user_unit_balance{
+      color: #fd2d4f;
+}
+
+
+
+.tag-post-review,
+.tag-published{
+    margin-right: 10px;
+}
+
+.info-container_booking span{
+    float: left;
+    display: inline-block;
+    margin: 15px 5px;
+}
+
+.info-container_booking span:first-child{
+    margin-left:15px;
+}
+
+
+.user_cancelation{
+    position: absolute;
+    top: -58px;
+    right: 0px;
+}
+
+#post_review{
+    float: left;
+}
+
+
+#print_trip,
+#print_invoice{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background: #46cd72;
+    padding: 5px;
+    color: #fff;
+    cursor: pointer;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+}
+
+
+
+.create_invoice_form .rating{
+    margin-top: -10px;
+    float: left;
+    width: 100%;
+}
+
+
+.invoice_unit .create_invoice_form{
+    margin: 10px 0px -6px 0px;
+    box-shadow: none;
+}
+
+
+
+
+
+/*=invoice admin
+--------------------------------------------------------------------------------*/
+.invoice_date_renter_payment_info_wrapper,
+.invoice_date_renter_payments_to_wrapper{
+    display: none;
+}
+
+
+
+.rating_legend{
+    float: left;
+    font-size: 14px;
+    font-weight: 600;
+    color: #3e4453;
+    margin-right: 10px;
+    width:185px;
+}
+
+.listing_reviews_wrapper .rating_legend{
+    width: 140px;
+}
+
+
+.action1_booking{
+
+}
+
+#direct_confirmation{
+    float:left;
+    cursor:pointer;
+}
+
+.add_booking{
+    background-color: #f7f7f7;
+    color: #888C8E;
+    float: left;
+    margin: 10px 0px;
+    padding: 11px 22px 0px 22px;
+    display:none;
+}
+
+
+.third_form{
+    width:19%;
+    float: left;
+    display: inline;
+    margin-right: 39px;
+}
+
+.third_form label{
+    width:100%;
+    float:left;
+}
+
+.booking_reservation_form textarea,
+.booking_reservation_form input[type=text],
+.add_booking input[type=text],
+.add_booking textarea {
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+    outline: none;
+    border: 1px solid #DDDDDD;
+}
+
+
+.booking_reservation_form input[type=text],
+.booking_reservation_form input[type=password],
+.booking_reservation_form input[type=email],
+.booking_reservation_form input[type=url],
+.booking_reservation_form input[type=number],
+.booking_reservation_form textarea,
+.add_booking input[type=text],
+.add_booking input[type=password],
+.add_booking input[type=email],
+.add_booking input[type=url],
+.add_booking input[type=number],
+.add_booking textarea {
+    width: 98%;
+    margin-bottom: 11px;
+    font-family: 'Arial';
+    font-size: 14px;
+    padding: 11px 0px 11px 11px;
+    color: #1a171b;
+    border: 1px solid #e5e5e5;
+    border-radius: 2px;
+    background-color: #fff!important;
+    box-shadow: none;
+    text-align: left;
+}
+
+
+
+.booking_reservation_form input[type=text]:focus,
+.booking_reservation_form input[type=password]:focus,
+.booking_reservation_form textarea:focus,
+.add_booking input[type=password]:focus,
+.add_booking input[type=text]:focus,
+.add_booking textarea:focus {
+    box-shadow: 0 0 5px rgba(69, 179, 126, 1);
+    border: 1px solid rgba(69, 179, 126, 1);
+}
+
+#booking_guest_no,
+#booking_property_name{
+    border-radius: 2px;
+    background-color: #fff!important;
+    font-size: 14px;
+}
+
+#booking_guest_no option{
+    padding:10px;
+    padding-left: 15px;
+}
+
+
+
+/*=dashboard widgets*/
+.dashboard_widget_unit{
+  width: 100%;
+  float: left;
+  margin-bottom: 15px;
+  padding-left: 15px;
+  display: flex;
+}
+
+.dashbard_unit_image{
+    float:left;
+    min-width: 100px;
+}
+
+.dashbard_unit_title{
+  font-weight: 600;
+}
+.dashbard_unit_image img{
+  width: 100px;
+}
+
+.property_dashboard_location_wrapper{
+    float:left;
+    padding-left: 15px;
+}
+
+.wpestate_dash_history_unit{
+  width: 100%;
+  float: left;
+  margin-bottom: 10px;
+  padding-left: 15px;
+}
+.wpestat_dash_history_date{
+  font-size: 13px;
+}
+
+.wpestat_dash_history_label{
+  font-weight: 600;
+}
